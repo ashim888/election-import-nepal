@@ -1,0 +1,4504 @@
+{
+    "P1": {
+      "name": "Province No. 1",
+      "districts": [
+        {
+          "id": "1",
+          "name": "\u0908\u0932\u093e\u092e / Illam",
+          "nepali_name": "\u0908\u0932\u093e\u092e",
+          "english_name": "illam",
+          "code": "illam",
+          "locations": [
+            [
+              {
+                "id": "19",
+                "english_name": "illam",
+                "nepali_name": "\u0907\u0932\u093e\u092e"
+              },
+              {
+                "id": "23",
+                "english_name": "chulachuli",
+                "nepali_name": "\u091a\u0941\u0932\u093e\u091a\u0941\u0932\u0940"
+              },
+              {
+                "id": "18",
+                "english_name": "deumai",
+                "nepali_name": "\u0926\u0947\u0909\u092e\u093e\u0908"
+              },
+              {
+                "id": "22",
+                "english_name": "phakphokthum",
+                "nepali_name": "\u092b\u093e\u0915\u092b\u094b\u0915\u0925\u0941\u092e"
+              },
+              {
+                "id": "20",
+                "english_name": "mai",
+                "nepali_name": "\u092e\u093e\u0908"
+              },
+              {
+                "id": "24",
+                "english_name": "maijogmai",
+                "nepali_name": "\u092e\u093e\u0908\u091c\u094b\u0917\u092e\u093e\u0908"
+              },
+              {
+                "id": "25",
+                "english_name": "mangsebung",
+                "nepali_name": "\u092e\u093e\u0919\u0938\u0947\u092c\u0941\u0919"
+              },
+              {
+                "id": "26",
+                "english_name": "rong",
+                "nepali_name": "\u0930\u094b\u0919"
+              },
+              {
+                "id": "27",
+                "english_name": "sandakpur",
+                "nepali_name": "\u0938\u0928\u094d\u0926\u0915\u092a\u0941\u0930"
+              },
+              {
+                "id": "21",
+                "english_name": "suryodaya",
+                "nepali_name": "\u0938\u0942\u0930\u094d\u092f\u094b\u0926\u092f"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "name": "\u0909\u0926\u092f\u092a\u0941\u0930 / Udayapur",
+          "nepali_name": "\u0909\u0926\u092f\u092a\u0941\u0930",
+          "english_name": "udayapur",
+          "code": "udayapur",
+          "locations": [
+            [
+              {
+                "id": "135",
+                "english_name": "udyapurghadi",
+                "nepali_name": "\u0909\u0926\u092f\u092a\u0941\u0930\u0917\u0922\u0940"
+              },
+              {
+                "id": "131",
+                "english_name": "katari",
+                "nepali_name": "\u0915\u091f\u093e\u0930\u0940"
+              },
+              {
+                "id": "132",
+                "english_name": "chaudhandigadhi",
+                "nepali_name": "\u091a\u094c\u0926\u0923\u094d\u0921\u0940\u0917\u0922\u0940"
+              },
+              {
+                "id": "136",
+                "english_name": "tapli",
+                "nepali_name": "\u0924\u093e\u092a\u094d\u0932\u0940"
+              },
+              {
+                "id": "133",
+                "english_name": "triyuga",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u092f\u0941\u0917\u093e"
+              },
+              {
+                "id": "134",
+                "english_name": "belaka",
+                "nepali_name": "\u092c\u0947\u0932\u0915\u093e"
+              },
+              {
+                "id": "137",
+                "english_name": "rautamai",
+                "nepali_name": "\u0930\u094c\u0924\u093e\u092e\u093e\u0908"
+              },
+              {
+                "id": "138",
+                "english_name": "sunkoshi",
+                "nepali_name": "\u0938\u0941\u0928\u0915\u094b\u0936\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "name": "\u0913\u0916\u0932\u0922\u0941\u0902\u0917\u093e / Okhaldhunga",
+          "nepali_name": "\u0913\u0916\u0932\u0922\u0941\u0902\u0917\u093e",
+          "english_name": "okhaldhunga",
+          "code": "okhaldhunga",
+          "locations": [
+            [
+              {
+                "id": "106",
+                "english_name": "khijidhemba",
+                "nepali_name": "\u0916\u093f\u091c\u093f\u0926\u0947\u092e\u094d\u092c\u093e"
+              },
+              {
+                "id": "107",
+                "english_name": "champadevi",
+                "nepali_name": "\u091a\u092e\u094d\u092a\u093e\u0926\u0947\u0935\u0940"
+              },
+              {
+                "id": "108",
+                "english_name": "chisangkhudi",
+                "nepali_name": "\u091a\u093f\u0936\u0902\u0916\u0941\u0917\u0922\u0940"
+              },
+              {
+                "id": "109",
+                "english_name": "manebhangzyang",
+                "nepali_name": "\u092e\u093e\u0928\u0947\u092d\u091e\u094d\u092f\u093e\u0919"
+              },
+              {
+                "id": "110",
+                "english_name": "molung",
+                "nepali_name": "\u092e\u094b\u0932\u0941\u0919"
+              },
+              {
+                "id": "111",
+                "english_name": "likhu",
+                "nepali_name": "\u0932\u093f\u0916\u0941"
+              },
+              {
+                "id": "105",
+                "english_name": "sidhicharan",
+                "nepali_name": "\u0938\u093f\u0926\u094d\u0926\u093f\u091a\u0930\u0923"
+              },
+              {
+                "id": "112",
+                "english_name": "sunkoshi",
+                "nepali_name": "\u0938\u0941\u0928\u0915\u094b\u0936\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "name": "\u0916\u094b\u091f\u093e\u0919 / Khotang",
+          "nepali_name": "\u0916\u094b\u091f\u093e\u0919",
+          "english_name": "khotang",
+          "code": "khotang",
+          "locations": [
+            [
+              {
+                "id": "115",
+                "english_name": "aeselukharka",
+                "nepali_name": "\u0910\u0938\u0947\u0932\u0941\u0916\u0930\u094d\u0915"
+              },
+              {
+                "id": "119",
+                "english_name": "kepilasagdi",
+                "nepali_name": "\u0915\u0947\u092a\u093f\u0932\u093e\u0938\u0917\u0922\u0940"
+              },
+              {
+                "id": "118",
+                "english_name": "khotehang",
+                "nepali_name": "\u0916\u094b\u091f\u0947\u0939\u093e\u0919"
+              },
+              {
+                "id": "117",
+                "english_name": "jhantedhunga",
+                "nepali_name": "\u091c\u0928\u094d\u0924\u0947\u0922\u0941\u0902\u0917\u093e"
+              },
+              {
+                "id": "120",
+                "english_name": "diprung",
+                "nepali_name": "\u0926\u093f\u092a\u094d\u0930\u0941\u0919"
+              },
+              {
+                "id": "113",
+                "english_name": "rupakoth majuwagdi",
+                "nepali_name": "\u0930\u0941\u092a\u093e\u0915\u094b\u091f \u092e\u091c\u0941\u0935\u093e\u0917\u0922\u0940"
+              },
+              {
+                "id": "116",
+                "english_name": "lamidanda",
+                "nepali_name": "\u0932\u093e\u092e\u0940\u0921\u093e\u0901\u0921\u093e"
+              },
+              {
+                "id": "122",
+                "english_name": "barahapokhari",
+                "nepali_name": "\u0935\u0930\u093e\u0939\u092a\u094b\u0916\u0930\u0940"
+              },
+              {
+                "id": "121",
+                "english_name": "sakela",
+                "nepali_name": "\u0938\u093e\u0915\u0947\u0932\u093e"
+              },
+              {
+                "id": "114",
+                "english_name": "haleshi thuwachung",
+                "nepali_name": "\u0939\u0932\u0947\u0938\u0940 \u0924\u0941\u0935\u093e\u091a\u0941\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "name": "\u091d\u093e\u092a\u093e / Jhapa",
+          "nepali_name": "\u091d\u093e\u092a\u093e",
+          "english_name": "jhapa",
+          "code": "jhapa",
+          "locations": [
+            [
+              {
+                "id": "33",
+                "english_name": "arjundhara",
+                "nepali_name": "\u0905\u0930\u094d\u091c\u0941\u0928\u0927\u093e\u0930\u093e"
+              },
+              {
+                "id": "43",
+                "english_name": "kachankawal",
+                "nepali_name": "\u0915\u091a\u0928\u0915\u0935\u0932"
+              },
+              {
+                "id": "31",
+                "english_name": "kankai",
+                "nepali_name": "\u0915\u0928\u094d\u0915\u093e\u0908"
+              },
+              {
+                "id": "37",
+                "english_name": "kamal",
+                "nepali_name": "\u0915\u092e\u0932"
+              },
+              {
+                "id": "34",
+                "english_name": "gauradaha",
+                "nepali_name": "\u0917\u094c\u0930\u093e\u0926\u0939"
+              },
+              {
+                "id": "38",
+                "english_name": "gangriganj",
+                "nepali_name": "\u0917\u094c\u0930\u0940\u0917\u091e\u094d\u091c"
+              },
+              {
+                "id": "40",
+                "english_name": "jhapa",
+                "nepali_name": "\u091d\u093e\u092a\u093e"
+              },
+              {
+                "id": "30",
+                "english_name": "damak",
+                "nepali_name": "\u0926\u092e\u0915"
+              },
+              {
+                "id": "39",
+                "english_name": "barhadshi",
+                "nepali_name": "\u092c\u093e\u0939\u094d\u0930\u0926\u0936\u0940"
+              },
+              {
+                "id": "41",
+                "english_name": "budhashanti",
+                "nepali_name": "\u092c\u0941\u0926\u094d\u0927\u0936\u093e\u0928\u094d\u0924\u093f"
+              },
+              {
+                "id": "32",
+                "english_name": "bhadrapur",
+                "nepali_name": "\u092d\u0926\u094d\u0930\u092a\u0941\u0930"
+              },
+              {
+                "id": "28",
+                "english_name": "mechi",
+                "nepali_name": "\u092e\u0947\u091a\u0940"
+              },
+              {
+                "id": "36",
+                "english_name": "birtamod",
+                "nepali_name": "\u0935\u093f\u0930\u094d\u0924\u093e\u092e\u094b\u0921"
+              },
+              {
+                "id": "35",
+                "english_name": "shivasatakshi",
+                "nepali_name": "\u0936\u093f\u0935\u0936\u0924\u093e\u0915\u094d\u0937\u0940"
+              },
+              {
+                "id": "42",
+                "english_name": "haldiwari",
+                "nepali_name": "\u0939\u0932\u094d\u0926\u0940\u0935\u093e\u0930\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "name": "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919 / Taplejung",
+          "nepali_name": "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919",
+          "english_name": "taplejung",
+          "code": "taplejung",
+          "locations": [
+            [
+              {
+                "id": "2",
+                "english_name": "aathrai tribeni",
+                "nepali_name": "\u0906\u0920\u0930\u093e\u0908 \u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "4",
+                "english_name": "faktanglung",
+                "nepali_name": "\u092b\u0915\u094d\u0924\u093e\u0919\u0932\u0941\u0919"
+              },
+              {
+                "id": "1",
+                "english_name": "phungling",
+                "nepali_name": "\u092b\u0941\u0919\u0932\u093f\u0919"
+              },
+              {
+                "id": "5",
+                "english_name": "mikhwakhola",
+                "nepali_name": "\u092e\u093f\u0915\u094d\u0935\u093e\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "6",
+                "english_name": "meringden",
+                "nepali_name": "\u092e\u0947\u0930\u093f\u0919\u0926\u0947\u0928"
+              },
+              {
+                "id": "7",
+                "english_name": "maiwa khola",
+                "nepali_name": "\u092e\u0948\u0935\u093e \u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "8",
+                "english_name": "yangwarak",
+                "nepali_name": "\u092f\u093e\u0919\u0935\u0930\u0915"
+              },
+              {
+                "id": "3",
+                "english_name": "sidhingwa",
+                "nepali_name": "\u0938\u093f\u0926\u093f\u0919\u0935\u093e"
+              },
+              {
+                "id": "9",
+                "english_name": "sirijanga",
+                "nepali_name": "\u0938\u093f\u0930\u093f\u091c\u0902\u0917\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "name": "\u0924\u0947\u0939\u0925\u0941\u092e / Terhathum",
+          "nepali_name": "\u0924\u0947\u0939\u0925\u0941\u092e",
+          "english_name": "terhathum",
+          "code": "terhathum",
+          "locations": [
+            [
+              {
+                "id": "101",
+                "english_name": "aathrai",
+                "nepali_name": "\u0906\u0920\u0930\u093e\u0908"
+              },
+              {
+                "id": "102",
+                "english_name": "chathar",
+                "nepali_name": "\u091b\u0925\u0930"
+              },
+              {
+                "id": "103",
+                "english_name": "phedhap",
+                "nepali_name": "\u092b\u0947\u0926\u093e\u092a"
+              },
+              {
+                "id": "104",
+                "english_name": "menchayayem",
+                "nepali_name": "\u092e\u0947\u0928\u094d\u091b\u092f\u093e\u092f\u0947\u092e"
+              },
+              {
+                "id": "99",
+                "english_name": "myanglung",
+                "nepali_name": "\u092e\u094d\u092f\u093e\u0919\u0932\u0941\u0919"
+              },
+              {
+                "id": "100",
+                "english_name": "laliguras",
+                "nepali_name": "\u0932\u093e\u0932\u0940\u0917\u0941\u0930\u093e\u0901\u0938"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "name": "\u0927\u0928\u0915\u0941\u091f\u093e / Dhankuta",
+          "nepali_name": "\u0927\u0928\u0915\u0941\u091f\u093e",
+          "english_name": "dhankuta",
+          "code": "dhankuta",
+          "locations": [
+            [
+              {
+                "id": "89",
+                "english_name": "khalsa chintang sahidbhumi",
+                "nepali_name": "\u0916\u093e\u0932\u094d\u0938\u093e \u091b\u093f\u0928\u094d\u0924\u093e\u0919 \u0938\u0939\u093f\u0926\u092d\u0942\u092e\u093f"
+              },
+              {
+                "id": "86",
+                "english_name": "chaubise",
+                "nepali_name": "\u091a\u094c\u092c\u093f\u0938\u0947"
+              },
+              {
+                "id": "87",
+                "english_name": "chatar jorpati",
+                "nepali_name": "\u091b\u0925\u0930 \u091c\u094b\u0930\u092a\u093e\u091f\u0940"
+              },
+              {
+                "id": "83",
+                "english_name": "dhankuta",
+                "nepali_name": "\u0927\u0928\u0915\u0941\u091f\u093e"
+              },
+              {
+                "id": "84",
+                "english_name": "pakhibash",
+                "nepali_name": "\u092a\u093e\u0916\u094d\u0930\u093f\u092c\u093e\u0938"
+              },
+              {
+                "id": "85",
+                "english_name": "mahalaxmi",
+                "nepali_name": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940"
+              },
+              {
+                "id": "88",
+                "english_name": "sagurigadhi",
+                "nepali_name": "\u0938\u093e\u0917\u0941\u0930\u0940\u0917\u0922\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "name": "\u092a\u093e\u0901\u091a\u0925\u0930 / Panchthar",
+          "nepali_name": "\u092a\u093e\u0901\u091a\u0925\u0930",
+          "english_name": "panchthar",
+          "code": "panchthar",
+          "locations": [
+            [
+              {
+                "id": "14",
+                "english_name": "kummayak",
+                "nepali_name": "\u0915\u0941\u092e\u094d\u092e\u093e\u092f\u0915"
+              },
+              {
+                "id": "16",
+                "english_name": "tumbewa",
+                "nepali_name": "\u0924\u0941\u092e\u094d\u092c\u0947\u0935\u093e"
+              },
+              {
+                "id": "11",
+                "english_name": "falelung",
+                "nepali_name": "\u092b\u093e\u0932\u0947\u0932\u0941\u0902\u0917"
+              },
+              {
+                "id": "12",
+                "english_name": "falgunand",
+                "nepali_name": "\u092b\u093e\u0932\u094d\u0917\u0941\u0928\u0928\u094d\u0926"
+              },
+              {
+                "id": "10",
+                "english_name": "fidim",
+                "nepali_name": "\u092b\u093f\u0926\u093f\u092e"
+              },
+              {
+                "id": "15",
+                "english_name": "miklajung",
+                "nepali_name": "\u092e\u093f\u0915\u094d\u0932\u093e\u091c\u0941\u0919"
+              },
+              {
+                "id": "17",
+                "english_name": "yangwarak",
+                "nepali_name": "\u092f\u093e\u0919\u0935\u0930\u0915"
+              },
+              {
+                "id": "13",
+                "english_name": "hilihang",
+                "nepali_name": "\u0939\u093f\u0932\u093f\u0939\u093e\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "name": "\u092d\u094b\u091c\u092a\u0941\u0930 / Bhojpur",
+          "nepali_name": "\u092d\u094b\u091c\u092a\u0941\u0930",
+          "english_name": "bhojpur",
+          "code": "bhojpur",
+          "locations": [
+            [
+              {
+                "id": "92",
+                "english_name": "arun",
+                "nepali_name": "\u0905\u0930\u0941\u0923"
+              },
+              {
+                "id": "98",
+                "english_name": "aamchowk",
+                "nepali_name": "\u0906\u092e\u091a\u094b\u0915"
+              },
+              {
+                "id": "97",
+                "english_name": "tyamkemeyum",
+                "nepali_name": "\u091f\u094d\u092f\u093e\u092e\u094d\u0915\u0947\u092e\u0948\u092f\u0941\u092e"
+              },
+              {
+                "id": "94",
+                "english_name": "pawadhuma",
+                "nepali_name": "\u092a\u094c\u0935\u093e\u0926\u0941\u092e\u094d\u092e\u093e"
+              },
+              {
+                "id": "91",
+                "english_name": "bhojpur",
+                "nepali_name": "\u092d\u094b\u091c\u092a\u0941\u0930"
+              },
+              {
+                "id": "95",
+                "english_name": "ramprasad rai",
+                "nepali_name": "\u0930\u093e\u092e\u092a\u094d\u0930\u0938\u093e\u0926 \u0930\u093e\u0908"
+              },
+              {
+                "id": "90",
+                "english_name": "sa\u1e0dananda",
+                "nepali_name": "\u0937\u0921\u093e\u0928\u0928\u094d\u0926"
+              },
+              {
+                "id": "96",
+                "english_name": "salpasilicho",
+                "nepali_name": "\u0938\u093e\u0932\u094d\u092a\u093e\u0938\u093f\u0932\u093f\u091b\u094b"
+              },
+              {
+                "id": "93",
+                "english_name": "hatuwagdi",
+                "nepali_name": "\u0939\u0924\u0941\u0935\u093e\u0917\u0922\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "11",
+          "name": "\u092e\u094b\u0930\u0902\u0917 / Morang",
+          "nepali_name": "\u092e\u094b\u0930\u0902\u0917",
+          "english_name": "morang",
+          "code": "morang",
+          "locations": [
+            [
+              {
+                "id": "61",
+                "english_name": "urlabari",
+                "nepali_name": "\u0909\u0930\u094d\u0932\u093e\u0935\u093e\u0930\u0940"
+              },
+              {
+                "id": "68",
+                "english_name": "katahari",
+                "nepali_name": "\u0915\u091f\u0939\u0930\u0940"
+              },
+              {
+                "id": "67",
+                "english_name": "khanephokhari",
+                "nepali_name": "\u0915\u093e\u0928\u0947\u092a\u094b\u0916\u0930\u0940"
+              },
+              {
+                "id": "69",
+                "english_name": "kerabari",
+                "nepali_name": "\u0915\u0947\u0930\u093e\u092c\u093e\u0930\u0940"
+              },
+              {
+                "id": "65",
+                "english_name": "gramthan",
+                "nepali_name": "\u0917\u094d\u0930\u093e\u092e\u0925\u093e\u0928"
+              },
+              {
+                "id": "66",
+                "english_name": "jahada",
+                "nepali_name": "\u091c\u0939\u0926\u093e"
+              },
+              {
+                "id": "64",
+                "english_name": "dhanpalthan",
+                "nepali_name": "\u0927\u0928\u092a\u093e\u0932\u0925\u093e\u0928"
+              },
+              {
+                "id": "57",
+                "english_name": "pathari sanischare",
+                "nepali_name": "\u092a\u0925\u0930\u0940 \u0936\u0928\u093f\u0936\u094d\u091a\u0930\u0947"
+              },
+              {
+                "id": "63",
+                "english_name": "bhudiganga",
+                "nepali_name": "\u092c\u0941\u0922\u0940\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "55",
+                "english_name": "belbari",
+                "nepali_name": "\u092c\u0947\u0932\u092c\u093e\u0930\u0940"
+              },
+              {
+                "id": "70",
+                "english_name": "miklajung",
+                "nepali_name": "\u092e\u093f\u0915\u094d\u0932\u093e\u091c\u0941\u0919"
+              },
+              {
+                "id": "58",
+                "english_name": "rangheli",
+                "nepali_name": "\u0930\u0902\u0917\u0947\u0932\u0940"
+              },
+              {
+                "id": "59",
+                "english_name": "rathuwamai",
+                "nepali_name": "\u0930\u0924\u0941\u0935\u093e\u092e\u093e\u0908"
+              },
+              {
+                "id": "56",
+                "english_name": "letang",
+                "nepali_name": "\u0932\u0947\u091f\u093e\u0919"
+              },
+              {
+                "id": "54",
+                "english_name": "biratnagar",
+                "nepali_name": "\u0935\u093f\u0930\u093e\u091f\u0928\u0917\u0930"
+              },
+              {
+                "id": "60",
+                "english_name": "sunbarsi",
+                "nepali_name": "\u0938\u0941\u0928\u0935\u0930\u094d\u0937\u093f"
+              },
+              {
+                "id": "62",
+                "english_name": "sundhar haircha",
+                "nepali_name": "\u0938\u0941\u0928\u094d\u0926\u0930 \u0939\u0948\u0930\u091a\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "name": "\u0938\u0902\u0916\u0941\u0935\u093e\u0938\u092d\u093e / Sankhuwasabha",
+          "nepali_name": "\u0938\u0902\u0916\u0941\u0935\u093e\u0938\u092d\u093e",
+          "english_name": "sankhuwasabha",
+          "code": "sankhuwasabha",
+          "locations": [
+            [
+              {
+                "id": "46",
+                "english_name": "khandbari",
+                "nepali_name": "\u0916\u093e\u0901\u0926\u092c\u093e\u0930\u0940"
+              },
+              {
+                "id": "50",
+                "english_name": "chichila",
+                "nepali_name": "\u091a\u093f\u091a\u093f\u0932\u093e"
+              },
+              {
+                "id": "44",
+                "english_name": "chainpur",
+                "nepali_name": "\u091a\u0948\u0928\u092a\u0941\u0930"
+              },
+              {
+                "id": "45",
+                "english_name": "dharmadevi",
+                "nepali_name": "\u0927\u0930\u094d\u092e\u093e\u0926\u0947\u0935\u0940"
+              },
+              {
+                "id": "48",
+                "english_name": "panchkhapan",
+                "nepali_name": "\u092a\u093e\u0901\u091a\u0916\u092a\u0928"
+              },
+              {
+                "id": "49",
+                "english_name": "bhotkhola",
+                "nepali_name": "\u092d\u094b\u091f\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "51",
+                "english_name": "makalu",
+                "nepali_name": "\u092e\u0915\u093e\u0932\u0941"
+              },
+              {
+                "id": "47",
+                "english_name": "madhi",
+                "nepali_name": "\u092e\u093e\u0926\u0940"
+              },
+              {
+                "id": "52",
+                "english_name": "shavapokhari",
+                "nepali_name": "\u0938\u092d\u093e\u092a\u094b\u0916\u0930\u0940"
+              },
+              {
+                "id": "53",
+                "english_name": "silichong",
+                "nepali_name": "\u0938\u093f\u0932\u0940\u091a\u094b\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "13",
+          "name": "\u0938\u0941\u0928\u0938\u0930\u0940 / Sunsari",
+          "nepali_name": "\u0938\u0941\u0928\u0938\u0930\u0940",
+          "english_name": "sunsari",
+          "code": "sunsari",
+          "locations": [
+            [
+              {
+                "id": "71",
+                "english_name": "itahari",
+                "nepali_name": "\u0907\u091f\u0939\u0930\u0940"
+              },
+              {
+                "id": "73",
+                "english_name": "inaruwa",
+                "nepali_name": "\u0907\u0928\u0930\u0941\u0935\u093e"
+              },
+              {
+                "id": "77",
+                "english_name": "koshi",
+                "nepali_name": "\u0915\u094b\u0936\u0940"
+              },
+              {
+                "id": "78",
+                "english_name": "gadhi",
+                "nepali_name": "\u0917\u0922\u0940"
+              },
+              {
+                "id": "74",
+                "english_name": "dhuhabi",
+                "nepali_name": "\u0926\u0941\u0939\u0935\u0940"
+              },
+              {
+                "id": "79",
+                "english_name": "dewangunj",
+                "nepali_name": "\u0926\u0947\u0935\u093e\u0928\u0917\u0928\u094d\u091c"
+              },
+              {
+                "id": "72",
+                "english_name": "dharan",
+                "nepali_name": "\u0927\u0930\u093e\u0928"
+              },
+              {
+                "id": "75",
+                "english_name": "baraha",
+                "nepali_name": "\u092c\u0930\u093e\u0939"
+              },
+              {
+                "id": "80",
+                "english_name": "barju",
+                "nepali_name": "\u092c\u0930\u094d\u091c\u0941"
+              },
+              {
+                "id": "81",
+                "english_name": "bhokraha",
+                "nepali_name": "\u092d\u094b\u0915\u094d\u0930\u093e\u0939\u093e"
+              },
+              {
+                "id": "76",
+                "english_name": "ramdhuni",
+                "nepali_name": "\u0930\u093e\u092e\u0927\u0941\u0928\u0940"
+              },
+              {
+                "id": "82",
+                "english_name": "harinagar",
+                "nepali_name": "\u0939\u0930\u093f\u0928\u0917\u0930\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "14",
+          "name": "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 / Solukhumbu",
+          "nepali_name": "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941",
+          "english_name": "solukhumbu",
+          "code": "solukhumbu",
+          "locations": [
+            [
+              {
+                "id": "125",
+                "english_name": "khumbu pasanglhamu",
+                "nepali_name": "\u0916\u0941\u092e\u094d\u092c\u0941 \u092a\u093e\u0938\u093e\u0919\u0932\u094d\u0939\u092e\u0941"
+              },
+              {
+                "id": "124",
+                "english_name": "dhudkoshi",
+                "nepali_name": "\u0926\u0941\u0927\u0915\u094b\u0936\u0940"
+              },
+              {
+                "id": "126",
+                "english_name": "dhudkousika",
+                "nepali_name": "\u0926\u0941\u0927\u0915\u094c\u0936\u093f\u0915\u093e"
+              },
+              {
+                "id": "127",
+                "english_name": "nechasalyan",
+                "nepali_name": "\u0928\u0947\u091a\u093e\u0938\u0932\u094d\u092f\u093e\u0928"
+              },
+              {
+                "id": "128",
+                "english_name": "mahakulung",
+                "nepali_name": "\u092e\u093e\u0939\u093e\u0915\u0941\u0932\u0941\u0919"
+              },
+              {
+                "id": "129",
+                "english_name": "likhu pike",
+                "nepali_name": "\u0932\u093f\u0916\u0941 \u092a\u093f\u0915\u0947"
+              },
+              {
+                "id": "130",
+                "english_name": "sotang",
+                "nepali_name": "\u0938\u094b\u0924\u093e\u0919"
+              },
+              {
+                "id": "123",
+                "english_name": "soludhudkund",
+                "nepali_name": "\u0938\u094b\u0932\u0941\u0926\u0941\u0927\u0915\u0941\u0923\u094d\u0921"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "P2": {
+      "name": "Province No. 2",
+      "districts": [
+        {
+          "id": "15",
+          "name": "\u0927\u0928\u0941\u0937\u093e / Dhanusa",
+          "nepali_name": "\u0927\u0928\u0941\u0937\u093e",
+          "english_name": "dhanusa",
+          "code": "dhanusa",
+          "locations": [
+            [
+              {
+                "id": "172",
+                "english_name": "kamla sidhidhakshri",
+                "nepali_name": "\u0915\u092e\u0932\u093e \u0938\u093f\u0926\u094d\u0926\u0940\u0926\u093e\u0924\u094d\u0930\u0940"
+              },
+              {
+                "id": "164",
+                "english_name": "shrireshswarnath",
+                "nepali_name": "\u0915\u094d\u0937\u093f\u0930\u0947\u0936\u094d\u0935\u0930\u0928\u093e\u0925"
+              },
+              {
+                "id": "165",
+                "english_name": "ganeshman charnath",
+                "nepali_name": "\u0917\u0923\u0947\u0936\u092e\u093e\u0928 \u091a\u093e\u0930\u0928\u093e\u0925"
+              },
+              {
+                "id": "163",
+                "english_name": "janakpur",
+                "nepali_name": "\u091c\u0928\u0915\u092a\u0941\u0930"
+              },
+              {
+                "id": "175",
+                "english_name": "jamuni",
+                "nepali_name": "\u091c\u092e\u0941\u0928\u0940"
+              },
+              {
+                "id": "166",
+                "english_name": "dhanusadham",
+                "nepali_name": "\u0927\u0928\u0941\u0937\u093e\u0927\u093e\u092e"
+              },
+              {
+                "id": "167",
+                "english_name": "nagrain",
+                "nepali_name": "\u0928\u0917\u0930\u093e\u0907\u0928"
+              },
+              {
+                "id": "168",
+                "english_name": "mithila",
+                "nepali_name": "\u092e\u093f\u0925\u093f\u0932\u093e"
+              },
+              {
+                "id": "173",
+                "english_name": "mithila bihari",
+                "nepali_name": "\u092e\u093f\u0925\u093f\u0932\u093e \u00a0\u092c\u093f\u0939\u093e\u0930\u0940"
+              },
+              {
+                "id": "169",
+                "english_name": "yogibaba",
+                "nepali_name": "\u092f\u094b\u0917\u0940\u092c\u093e\u092c\u093e"
+              },
+              {
+                "id": "170",
+                "english_name": "sahidnagar",
+                "nepali_name": "\u0936\u0939\u0940\u0926\u0928\u0917\u0930"
+              },
+              {
+                "id": "171",
+                "english_name": "saptakrishi",
+                "nepali_name": "\u0938\u092a\u094d\u0924\u090b\u0937\u093f"
+              },
+              {
+                "id": "174",
+                "english_name": "hangsapur",
+                "nepali_name": "\u0939\u0902\u0938\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "16",
+          "name": "\u092a\u0930\u094d\u0938\u093e / Parsa",
+          "nepali_name": "\u092a\u0930\u094d\u0938\u093e",
+          "english_name": "parsa",
+          "code": "parsa",
+          "locations": [
+            [
+              {
+                "id": "346",
+                "english_name": "jagnathpur",
+                "nepali_name": "\u091c\u0917\u0928\u093e\u0925\u092a\u0941\u0930"
+              },
+              {
+                "id": "347",
+                "english_name": "dhobini",
+                "nepali_name": "\u0927\u094b\u092c\u0940\u0928\u0940"
+              },
+              {
+                "id": "348",
+                "english_name": "pakaha mainapur",
+                "nepali_name": "\u092a\u0915\u093e\u0939\u093e \u092e\u0948\u0928\u092a\u0941\u0930"
+              },
+              {
+                "id": "349",
+                "english_name": "pa\u1e6derva sugauli",
+                "nepali_name": "\u092a\u091f\u0947\u0930\u094d\u0935\u093e \u0938\u0941\u0917\u094c\u0932\u0940"
+              },
+              {
+                "id": "345",
+                "english_name": "pokhariya",
+                "nepali_name": "\u092a\u094b\u0916\u0930\u093f\u092f\u093e"
+              },
+              {
+                "id": "344",
+                "english_name": "birgunj",
+                "nepali_name": "\u092c\u093f\u0930\u0917\u0902\u091c"
+              },
+              {
+                "id": "350",
+                "english_name": "belava prasaun\u012b",
+                "nepali_name": "\u092c\u0947\u0932\u0935\u093e \u092a\u094d\u0930\u0938\u094c\u0928\u0940"
+              },
+              {
+                "id": "351",
+                "english_name": "visramapura",
+                "nepali_name": "\u0935\u093f\u0936\u094d\u0930\u093e\u092e\u092a\u0941\u0930"
+              },
+              {
+                "id": "352",
+                "english_name": "sakhuva prasauni",
+                "nepali_name": "\u0938\u0916\u0941\u0935\u093e \u092a\u094d\u0930\u0938\u094c\u0928\u0940"
+              },
+              {
+                "id": "353",
+                "english_name": "suvar\u1e47apura",
+                "nepali_name": "\u0938\u0941\u0935\u0930\u094d\u0923\u092a\u0941\u0930"
+              },
+              {
+                "id": "354",
+                "english_name": "harpur",
+                "nepali_name": "\u0939\u0930\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "17",
+          "name": "\u092e\u0939\u094b\u0924\u094d\u0924\u0930\u0940 / Mahottari",
+          "nepali_name": "\u092e\u0939\u094b\u0924\u094d\u0924\u0930\u0940",
+          "english_name": "mahottari",
+          "code": "mahottari",
+          "locations": [
+            [
+              {
+                "id": "179",
+                "english_name": "ekdara",
+                "nepali_name": "\u090f\u0915\u0921\u093e\u0930\u093e"
+              },
+              {
+                "id": "180",
+                "english_name": "aaurahi",
+                "nepali_name": "\u0914\u0930\u0939\u0940"
+              },
+              {
+                "id": "176",
+                "english_name": "gaushala",
+                "nepali_name": "\u0917\u094c\u0936\u093e\u0932\u093e"
+              },
+              {
+                "id": "177",
+                "english_name": "jaleshwor",
+                "nepali_name": "\u091c\u0932\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "181",
+                "english_name": "pipra",
+                "nepali_name": "\u092a\u093f\u092a\u0930\u093e"
+              },
+              {
+                "id": "178",
+                "english_name": "badhibash",
+                "nepali_name": "\u092c\u0930\u094d\u0926\u093f\u092c\u093e\u0938"
+              },
+              {
+                "id": "182",
+                "english_name": "balwa",
+                "nepali_name": "\u092c\u0932\u0935\u093e"
+              },
+              {
+                "id": "183",
+                "english_name": "bhangaha",
+                "nepali_name": "\u092d\u0901\u0917\u093e\u0939\u093e"
+              },
+              {
+                "id": "184",
+                "english_name": "mathihani",
+                "nepali_name": "\u092e\u091f\u093f\u0939\u093e\u0928\u0940"
+              },
+              {
+                "id": "185",
+                "english_name": "manra",
+                "nepali_name": "\u092e\u0928\u0930\u093e"
+              },
+              {
+                "id": "186",
+                "english_name": "ramgopalpur",
+                "nepali_name": "\u0930\u093e\u092e\u0917\u094b\u092a\u093e\u0932\u092a\u0941\u0930"
+              },
+              {
+                "id": "187",
+                "english_name": "loharpatti",
+                "nepali_name": "\u0932\u094b\u0939\u0930\u092a\u091f\u094d\u091f\u0940"
+              },
+              {
+                "id": "188",
+                "english_name": "samshi",
+                "nepali_name": "\u0938\u092e\u094d\u0938\u0940"
+              },
+              {
+                "id": "189",
+                "english_name": "sonma",
+                "nepali_name": "\u0938\u094b\u0928\u092e\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "18",
+          "name": "\u0930\u094c\u0924\u0939\u091f / Rauthat",
+          "nepali_name": "\u0930\u094c\u0924\u0939\u091f",
+          "english_name": "rauthat",
+          "code": "rauthat",
+          "locations": [
+            [
+              {
+                "id": "319",
+                "english_name": "isanatha",
+                "nepali_name": "\u0908\u0936\u0928\u093e\u0925"
+              },
+              {
+                "id": "320",
+                "english_name": "ka\u1e6dahariya",
+                "nepali_name": "\u0915\u091f\u0939\u0930\u093f\u092f\u093e"
+              },
+              {
+                "id": "321",
+                "english_name": "gajara",
+                "nepali_name": "\u0917\u091c\u0930\u093e"
+              },
+              {
+                "id": "322",
+                "english_name": "gadimai",
+                "nepali_name": "\u0917\u0922\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "316",
+                "english_name": "garuda",
+                "nepali_name": "\u0917\u0930\u0941\u0921\u093e"
+              },
+              {
+                "id": "317",
+                "english_name": "gaur",
+                "nepali_name": "\u0917\u094c\u0930"
+              },
+              {
+                "id": "318",
+                "english_name": "chandrapur",
+                "nepali_name": "\u091a\u0928\u094d\u0926\u094d\u0930\u092a\u0941\u0930"
+              },
+              {
+                "id": "323",
+                "english_name": "paroha",
+                "nepali_name": "\u092a\u0930\u094b\u0939\u093e"
+              },
+              {
+                "id": "324",
+                "english_name": "bijayapur",
+                "nepali_name": "\u092c\u093f\u091c\u092f\u092a\u0941\u0930"
+              },
+              {
+                "id": "330",
+                "english_name": "br\u0325ndavana",
+                "nepali_name": "\u092c\u0943\u0928\u094d\u0926\u093e\u0935\u0928"
+              },
+              {
+                "id": "325",
+                "english_name": "baidimai",
+                "nepali_name": "\u092c\u0948\u0927\u0940\u092e\u093e\u0930\u094d\u0907"
+              },
+              {
+                "id": "326",
+                "english_name": "bhagwati",
+                "nepali_name": "\u092d\u0917\u0935\u0924\u0940"
+              },
+              {
+                "id": "327",
+                "english_name": "vinak",
+                "nepali_name": "\u092d\u0940\u0928\u0915"
+              },
+              {
+                "id": "328",
+                "english_name": "maulapur",
+                "nepali_name": "\u092e\u094c\u0932\u093e\u092a\u0941\u0930"
+              },
+              {
+                "id": "329",
+                "english_name": "rajpur",
+                "nepali_name": "\u0930\u093e\u091c\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "19",
+          "name": "\u0935\u093e\u0930\u093e / Bara",
+          "nepali_name": "\u0935\u093e\u0930\u093e",
+          "english_name": "bara",
+          "code": "bara",
+          "locations": [
+            [
+              {
+                "id": "331",
+                "english_name": "simra jitpur",
+                "nepali_name": "\u0938\u093f\u092e\u0930\u093e \u091c\u0940\u0924\u092a\u0941\u0930"
+              },
+              {
+                "id": "332",
+                "english_name": "kalaya",
+                "nepali_name": "\u0915\u0932\u0948\u092f\u093e"
+              },
+              {
+                "id": "337",
+                "english_name": "kotwal",
+                "nepali_name": "\u0915\u094b\u091f\u0935\u093e\u0932"
+              },
+              {
+                "id": "333",
+                "english_name": "kolhawi",
+                "nepali_name": "\u0915\u094b\u0932\u094d\u0939\u0935\u0940"
+              },
+              {
+                "id": "338",
+                "english_name": "devtal",
+                "nepali_name": "\u0926\u0947\u0935\u0924\u093e\u0932"
+              },
+              {
+                "id": "334",
+                "english_name": "nijgadh",
+                "nepali_name": "\u0928\u093f\u091c\u0917\u0922"
+              },
+              {
+                "id": "343",
+                "english_name": "pacarau\u1e6da satamauja",
+                "nepali_name": "\u092a\u091a\u0930\u094c\u091f\u093e \u0938\u0924\u092e\u094c\u091c\u093e"
+              },
+              {
+                "id": "339",
+                "english_name": "parwanipur",
+                "nepali_name": "\u092a\u0930\u0935\u093e\u0928\u0940\u092a\u0941\u0930"
+              },
+              {
+                "id": "340",
+                "english_name": "prasauni",
+                "nepali_name": "\u092a\u094d\u0930\u0938\u094c\u0928\u0940"
+              },
+              {
+                "id": "341",
+                "english_name": "pheta",
+                "nepali_name": "\u092b\u0947\u091f\u093e"
+              },
+              {
+                "id": "342",
+                "english_name": "baragadhi",
+                "nepali_name": "\u092c\u093e\u0930\u093e\u0917\u0922\u0940"
+              },
+              {
+                "id": "335",
+                "english_name": "mahagadhimai",
+                "nepali_name": "\u092e\u0939\u093e\u0917\u0922\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "336",
+                "english_name": "simraunaga\u1e0dha",
+                "nepali_name": "\u0938\u093f\u092e\u094d\u0930\u094c\u0928\u0917\u0922"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "20",
+          "name": "\u0938\u092a\u094d\u0924\u0930\u0940 / Saptari",
+          "nepali_name": "\u0938\u092a\u094d\u0924\u0930\u0940",
+          "english_name": "saptari",
+          "code": "saptari",
+          "locations": [
+            [
+              {
+                "id": "145",
+                "english_name": "khadhak",
+                "nepali_name": "\u0916\u0921\u0915"
+              },
+              {
+                "id": "146",
+                "english_name": "chinnamastha",
+                "nepali_name": "\u091b\u093f\u0928\u094d\u0928\u092e\u0938\u094d\u0924\u093e"
+              },
+              {
+                "id": "147",
+                "english_name": "thopa",
+                "nepali_name": "\u0924\u094b\u092a\u093e"
+              },
+              {
+                "id": "139",
+                "english_name": "patho",
+                "nepali_name": "\u092a\u093e\u0924\u094b"
+              },
+              {
+                "id": "140",
+                "english_name": "barshaen",
+                "nepali_name": "\u092c\u0930\u0938\u093e\u0907\u0928"
+              },
+              {
+                "id": "149",
+                "english_name": "belhi chapena",
+                "nepali_name": "\u092c\u0947\u0932\u094d\u0939\u0940 \u091a\u092a\u0947\u0928\u093e"
+              },
+              {
+                "id": "148",
+                "english_name": "mohali",
+                "nepali_name": "\u092e\u094b\u0939\u0932\u0940"
+              },
+              {
+                "id": "141",
+                "english_name": "rajbiraj",
+                "nepali_name": "\u0930\u093e\u091c\u0935\u093f\u0930\u093e\u091c"
+              },
+              {
+                "id": "142",
+                "english_name": "sumbhunath",
+                "nepali_name": "\u0936\u092e\u094d\u092d\u0941\u0928\u093e\u0925"
+              },
+              {
+                "id": "143",
+                "english_name": "saptakoshi kanchanrup",
+                "nepali_name": "\u0938\u092a\u094d\u0924\u0915\u094b\u0936\u0940 \u0915\u091e\u094d\u091a\u0928\u0930\u0941\u092a"
+              },
+              {
+                "id": "150",
+                "english_name": "sumanga",
+                "nepali_name": "\u0938\u0941\u092e\u0919\u094d\u0917"
+              },
+              {
+                "id": "144",
+                "english_name": "hanumannagar yogini mai",
+                "nepali_name": "\u0939\u0928\u0941\u092e\u093e\u0928\u0928\u0917\u0930 \u092f\u094b\u0917\u093f\u0928\u093f \u092e\u093e\u0908"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "21",
+          "name": "\u0938\u0930\u094d\u0932\u093e\u0939\u0940 / Sarlahi",
+          "nepali_name": "\u0938\u0930\u094d\u0932\u093e\u0939\u0940",
+          "english_name": "sarlahi",
+          "code": "sarlahi",
+          "locations": [
+            [
+              {
+                "id": "198",
+                "english_name": "karmaya",
+                "nepali_name": "\u0915\u0930\u094d\u092e\u0948\u092f\u093e"
+              },
+              {
+                "id": "199",
+                "english_name": "kawilashi",
+                "nepali_name": "\u0915\u0935\u093f\u0932\u093e\u0938\u0940"
+              },
+              {
+                "id": "200",
+                "english_name": "godaita",
+                "nepali_name": "\u0917\u094b\u0921\u0948\u0924\u093e"
+              },
+              {
+                "id": "201",
+                "english_name": "chandranagar",
+                "nepali_name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930"
+              },
+              {
+                "id": "202",
+                "english_name": "dhankail parisham",
+                "nepali_name": "\u0927\u0928\u0915\u094c\u0932 \u092a\u0936\u094d\u091a\u093f\u092e"
+              },
+              {
+                "id": "190",
+                "english_name": "brahatwa",
+                "nepali_name": "\u092c\u0930\u0939\u0925\u0935\u093e"
+              },
+              {
+                "id": "191",
+                "english_name": "balra",
+                "nepali_name": "\u092c\u0932\u0930\u093e"
+              },
+              {
+                "id": "203",
+                "english_name": "belhi",
+                "nepali_name": "\u092c\u0947\u0932\u094d\u0939\u0940"
+              },
+              {
+                "id": "192",
+                "english_name": "malangwa",
+                "nepali_name": "\u092e\u0932\u0902\u0917\u0935\u093e"
+              },
+              {
+                "id": "204",
+                "english_name": "ramnagar bahuarwa",
+                "nepali_name": "\u0930\u093e\u092e\u0928\u0917\u0930 \u092c\u0939\u0941\u0905\u0930\u094d\u0935\u093e"
+              },
+              {
+                "id": "193",
+                "english_name": "lalbandhi",
+                "nepali_name": "\u0932\u093e\u0932\u092c\u0928\u094d\u0926\u0940"
+              },
+              {
+                "id": "205",
+                "english_name": "bishnu",
+                "nepali_name": "\u0935\u093f\u0937\u094d\u0923\u0941"
+              },
+              {
+                "id": "194",
+                "english_name": "shrinagar sagarnath",
+                "nepali_name": "\u0936\u094d\u0930\u0940\u0928\u0917\u0930 \u0938\u093e\u0917\u0930\u0928\u093e\u0925"
+              },
+              {
+                "id": "195",
+                "english_name": "haripur",
+                "nepali_name": "\u0939\u0930\u093f\u092a\u0941\u0930"
+              },
+              {
+                "id": "196",
+                "english_name": "haripurwa",
+                "nepali_name": "\u0939\u0930\u093f\u092a\u0941\u0930\u094d\u0935\u093e"
+              },
+              {
+                "id": "197",
+                "english_name": "hariwan",
+                "nepali_name": "\u0939\u0930\u093f\u0935\u0928"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "22",
+          "name": "\u0938\u093f\u0930\u093e\u0939\u093e / Siraha",
+          "nepali_name": "\u0938\u093f\u0930\u093e\u0939\u093e",
+          "english_name": "siraha",
+          "code": "siraha",
+          "locations": [
+            [
+              {
+                "id": "160",
+                "english_name": "aaurahi",
+                "nepali_name": "\u0914\u0930\u0939\u0940"
+              },
+              {
+                "id": "161",
+                "english_name": "karjanha",
+                "nepali_name": "\u0915\u0930\u094d\u091c\u0928\u094d\u0939\u093e"
+              },
+              {
+                "id": "162",
+                "english_name": "kalyanpur jabdi",
+                "nepali_name": "\u0915\u0932\u094d\u092f\u093e\u0923\u092a\u0941\u0930 \u091c\u092c\u094d\u0926\u0940"
+              },
+              {
+                "id": "155",
+                "english_name": "gholbazar",
+                "nepali_name": "\u0917\u094b\u0932\u092c\u091c\u093e\u0930"
+              },
+              {
+                "id": "156",
+                "english_name": "dhangadimai",
+                "nepali_name": "\u0927\u0928\u0917\u0922\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "157",
+                "english_name": "bhagwanpur",
+                "nepali_name": "\u092d\u0917\u0935\u093e\u0928\u092a\u0941\u0930"
+              },
+              {
+                "id": "158",
+                "english_name": "maheshpur pathari",
+                "nepali_name": "\u092e\u0939\u0947\u0936\u092a\u0941\u0930 \u092a\u0924\u093e\u0930\u0940"
+              },
+              {
+                "id": "151",
+                "english_name": "mirchya",
+                "nepali_name": "\u092e\u093f\u0930\u094d\u091a\u0948\u092f\u093e"
+              },
+              {
+                "id": "152",
+                "english_name": "lahan",
+                "nepali_name": "\u0932\u0939\u093e\u0928"
+              },
+              {
+                "id": "159",
+                "english_name": "bhishnupur p.m",
+                "nepali_name": "\u0935\u093f\u0937\u094d\u0923\u0941\u092a\u0941\u0930 \u092a\u094d\u0930.\u092e."
+              },
+              {
+                "id": "153",
+                "english_name": "siraha",
+                "nepali_name": "\u0938\u093f\u0930\u093e\u0939\u093e"
+              },
+              {
+                "id": "154",
+                "english_name": "sukhipur",
+                "nepali_name": "\u0938\u0941\u0916\u0940\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "P3": {
+      "name": "Province No. 3",
+      "districts": [
+        {
+          "id": "23",
+          "name": "\u0915\u093e\u0920\u092e\u093e\u0923\u094d\u0921\u094c / Kathmandu",
+          "nepali_name": "\u0915\u093e\u0920\u092e\u093e\u0923\u094d\u0921\u094c",
+          "english_name": "kathmandu",
+          "code": "kathmandu",
+          "locations": [
+            [
+              {
+                "id": "275",
+                "english_name": "kageshwori manohara",
+                "nepali_name": "\u0915\u093e\u0917\u0947\u0936\u094d\u0935\u0930\u0940 \u092e\u0928\u094b\u0939\u0930\u093e"
+              },
+              {
+                "id": "267",
+                "english_name": "kathmandu",
+                "nepali_name": "\u0915\u093e\u0920\u092e\u093e\u0923\u094d\u0921\u094c"
+              },
+              {
+                "id": "273",
+                "english_name": "kirtipur",
+                "nepali_name": "\u0915\u093f\u0930\u094d\u0924\u093f\u092a\u0941\u0930"
+              },
+              {
+                "id": "268",
+                "english_name": "gokarneshwor",
+                "nepali_name": "\u0917\u094b\u0915\u0930\u094d\u0923\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "272",
+                "english_name": "chandragiri",
+                "nepali_name": "\u091a\u0928\u094d\u0926\u094d\u0930\u093e\u0917\u093f\u0930\u0940"
+              },
+              {
+                "id": "269",
+                "english_name": "tokha",
+                "nepali_name": "\u091f\u094b\u0916\u093e"
+              },
+              {
+                "id": "270",
+                "english_name": "takreshwor",
+                "nepali_name": "\u0924\u093e\u0930\u094d\u0915\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "723",
+                "english_name": "dakchhinkali",
+                "nepali_name": "\u0926\u0915\u094d\u0937\u093f\u0923\u0915\u093e\u0932\u0940"
+              },
+              {
+                "id": "271",
+                "english_name": "nagarjun",
+                "nepali_name": "\u0928\u093e\u0917\u093e\u0930\u094d\u091c\u0941\u0928"
+              },
+              {
+                "id": "274",
+                "english_name": "budhanilkhantha",
+                "nepali_name": "\u092c\u0941\u0922\u093e\u0928\u093f\u0932\u0915\u0923\u094d\u0920"
+              },
+              {
+                "id": "725",
+                "english_name": "shankharapur",
+                "nepali_name": "\u0936\u0919\u094d\u0916\u0930\u093e\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "24",
+          "name": "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u0928\u094d\u091a\u094b\u0915 / Kavrepalanchowk",
+          "nepali_name": "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u0928\u094d\u091a\u094b\u0915",
+          "english_name": "kavrepalanchowk",
+          "code": "kavrepalanchowk",
+          "locations": [
+            [
+              {
+                "id": "255",
+                "english_name": "khanikhola",
+                "nepali_name": "\u0916\u093e\u0928\u0940\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "252",
+                "english_name": "chaurideurali",
+                "nepali_name": "\u091a\u094c\u0930\u0940\u0926\u0947\u0909\u0930\u093e\u0932\u0940"
+              },
+              {
+                "id": "253",
+                "english_name": "temal",
+                "nepali_name": "\u0924\u0947\u092e\u093e\u0932"
+              },
+              {
+                "id": "247",
+                "english_name": "dhulikhel",
+                "nepali_name": "\u0927\u0941\u0932\u093f\u0916\u0947\u0932"
+              },
+              {
+                "id": "244",
+                "english_name": "namobuddha",
+                "nepali_name": "\u0928\u092e\u094b\u092c\u0941\u0926\u094d\u0927"
+              },
+              {
+                "id": "249",
+                "english_name": "panauti",
+                "nepali_name": "\u092a\u0928\u094c\u0924\u0940"
+              },
+              {
+                "id": "246",
+                "english_name": "panchkhal",
+                "nepali_name": "\u092a\u093e\u0901\u091a\u0916\u093e\u0932"
+              },
+              {
+                "id": "248",
+                "english_name": "banepa",
+                "nepali_name": "\u092c\u0928\u0947\u092a\u093e"
+              },
+              {
+                "id": "256",
+                "english_name": "bethanchowk",
+                "nepali_name": "\u092c\u0947\u0925\u093e\u0928\u091a\u094b\u0915"
+              },
+              {
+                "id": "251",
+                "english_name": "bhumlu",
+                "nepali_name": "\u092d\u0941\u092e\u094d\u0932\u0941"
+              },
+              {
+                "id": "245",
+                "english_name": "mandandeupur",
+                "nepali_name": "\u092e\u0923\u094d\u0921\u0928\u0926\u0947\u0909\u092a\u0941\u0930"
+              },
+              {
+                "id": "250",
+                "english_name": "mahabharat",
+                "nepali_name": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924"
+              },
+              {
+                "id": "254",
+                "english_name": "roshi",
+                "nepali_name": "\u0930\u094b\u0936\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "25",
+          "name": "\u091a\u093f\u0924\u0935\u0928 / Chitwan",
+          "nepali_name": "\u091a\u093f\u0924\u0935\u0928",
+          "english_name": "chitwan",
+          "code": "chitwan",
+          "locations": [
+            [
+              {
+                "id": "361",
+                "english_name": "ichhakamana",
+                "nepali_name": "\u0908\u091a\u094d\u091b\u093e\u0915\u093e\u092e\u0928\u093e"
+              },
+              {
+                "id": "727",
+                "english_name": "kalika",
+                "nepali_name": "\u0915\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "358",
+                "english_name": "khairhani",
+                "nepali_name": "\u0916\u0948\u0930\u0939\u0928\u0940"
+              },
+              {
+                "id": "355",
+                "english_name": "bharatpur",
+                "nepali_name": "\u092d\u0930\u0924\u092a\u0941\u0930"
+              },
+              {
+                "id": "356",
+                "english_name": "madi",
+                "nepali_name": "\u092e\u093e\u0921\u0940"
+              },
+              {
+                "id": "360",
+                "english_name": "ratnanagar",
+                "nepali_name": "\u0930\u0924\u094d\u0928\u0928\u0917\u0930"
+              },
+              {
+                "id": "359",
+                "english_name": "rapti",
+                "nepali_name": "\u0930\u093e\u092a\u094d\u0924\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "26",
+          "name": "\u0926\u094b\u0932\u0916\u093e / Dolkha",
+          "nepali_name": "\u0926\u094b\u0932\u0916\u093e",
+          "english_name": "dolkha",
+          "code": "dolkha",
+          "locations": [
+            [
+              {
+                "id": "226",
+                "english_name": "kalinchowk village council",
+                "nepali_name": "\u0915\u093e\u0932\u093f\u091e\u094d\u091a\u094b\u0915 \u0917\u093e\u0909\u0901\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "231",
+                "english_name": "gaurishankar village council",
+                "nepali_name": "\u0917\u094c\u0930\u0940\u0936\u0902\u0915\u0930 \u0917\u093e\u0909\u0901\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "224",
+                "english_name": "jiri municipality",
+                "nepali_name": "\u091c\u093f\u0930\u093f \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "229",
+                "english_name": "tamakoshi village council",
+                "nepali_name": "\u0924\u093e\u092e\u093e\u0915\u094b\u0936\u0940 \u0917\u093e\u0909\u0901\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "230",
+                "english_name": "baiteshwor",
+                "nepali_name": "\u092c\u0948\u0924\u094d\u092f\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "223",
+                "english_name": "bhimeshwor municipality",
+                "nepali_name": "\u092d\u093f\u092e\u0947\u0936\u094d\u0935\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "228",
+                "english_name": "melung village council",
+                "nepali_name": "\u092e\u0947\u0932\u0941\u0919 \u0917\u093e\u0909\u0901\u092a\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "225",
+                "english_name": "bhigu",
+                "nepali_name": "\u0935\u093f\u0917\u0941"
+              },
+              {
+                "id": "227",
+                "english_name": "shailung",
+                "nepali_name": "\u0936\u0948\u0932\u0941\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "27",
+          "name": "\u0927\u093e\u0926\u093f\u0919 / Dhading",
+          "nepali_name": "\u0927\u093e\u0926\u093f\u0919",
+          "english_name": "dhading",
+          "code": "dhading",
+          "locations": [
+            [
+              {
+                "id": "297",
+                "english_name": "khaniyabaas",
+                "nepali_name": "\u0916\u0928\u093f\u092f\u093e\u092c\u093e\u0938"
+              },
+              {
+                "id": "298",
+                "english_name": "gangajamuna",
+                "nepali_name": "\u0917\u0902\u0917\u093e\u091c\u092e\u0941\u0928\u093e"
+              },
+              {
+                "id": "302",
+                "english_name": "gajuri",
+                "nepali_name": "\u0917\u091c\u0941\u0930\u0940"
+              },
+              {
+                "id": "296",
+                "english_name": "galchhi",
+                "nepali_name": "\u0917\u0932\u094d\u091b\u0940"
+              },
+              {
+                "id": "301",
+                "english_name": "jwalamukhi",
+                "nepali_name": "\u091c\u094d\u0935\u093e\u0932\u093e\u092e\u0941\u0916\u0940"
+              },
+              {
+                "id": "300",
+                "english_name": "tripurasundhari",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e\u0938\u0941\u0928\u094d\u0926\u0930\u0940"
+              },
+              {
+                "id": "303",
+                "english_name": "thakre",
+                "nepali_name": "\u0925\u093e\u0915\u094d\u0930\u0947"
+              },
+              {
+                "id": "293",
+                "english_name": "dhunibeshi",
+                "nepali_name": "\u0927\u0941\u0928\u0940\u092c\u0947\u0936\u0940"
+              },
+              {
+                "id": "294",
+                "english_name": "nilkantha",
+                "nepali_name": "\u0928\u093f\u0932\u0915\u0923\u094d\u0920"
+              },
+              {
+                "id": "299",
+                "english_name": "netrawati",
+                "nepali_name": "\u0928\u0947\u0924\u094d\u0930\u093e\u0935\u0924\u0940"
+              },
+              {
+                "id": "304",
+                "english_name": "benigha\u1e6da rorang",
+                "nepali_name": "\u092c\u0947\u0928\u0940\u0918\u093e\u091f\u0930\u094b\u0930\u093e\u0919"
+              },
+              {
+                "id": "295",
+                "english_name": "rubi valley",
+                "nepali_name": "\u0930\u0941\u0935\u0940 \u092d\u094d\u092f\u093e\u0932\u0940"
+              },
+              {
+                "id": "305",
+                "english_name": "siddalek",
+                "nepali_name": "\u0938\u093f\u0926\u094d\u0927\u0932\u0947\u0915"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "name": "\u0928\u0941\u0935\u093e\u0915\u094b\u091f / Nuwakot",
+          "nepali_name": "\u0928\u0941\u0935\u093e\u0915\u094b\u091f",
+          "english_name": "nuwakot",
+          "code": "nuwakot",
+          "locations": [
+            [
+              {
+                "id": "282",
+                "english_name": "kakani",
+                "nepali_name": "\u0915\u0915\u0928\u0940"
+              },
+              {
+                "id": "287",
+                "english_name": "kispang",
+                "nepali_name": "\u0915\u093f\u0938\u094d\u092a\u093e\u0919"
+              },
+              {
+                "id": "280",
+                "english_name": "tadi",
+                "nepali_name": "\u0924\u093e\u0926\u0940"
+              },
+              {
+                "id": "284",
+                "english_name": "tarkeshwor",
+                "nepali_name": "\u0924\u093e\u0930\u094d\u0915\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "278",
+                "english_name": "dupcheshwor",
+                "nepali_name": "\u0926\u0941\u092a\u094d\u091a\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "279",
+                "english_name": "panchakanya",
+                "nepali_name": "\u092a\u0902\u091e\u094d\u091a\u0915\u0928\u094d\u092f\u093e"
+              },
+              {
+                "id": "277",
+                "english_name": "belkotgadi",
+                "nepali_name": "\u092c\u0947\u0932\u0915\u094b\u091f\u0917\u0922\u0940"
+              },
+              {
+                "id": "285",
+                "english_name": "meghang",
+                "nepali_name": "\u092e\u0947\u0918\u093e\u0919"
+              },
+              {
+                "id": "286",
+                "english_name": "likhu",
+                "nepali_name": "\u0932\u093f\u0916\u0941"
+              },
+              {
+                "id": "276",
+                "english_name": "bidur",
+                "nepali_name": "\u0935\u093f\u0926\u0941\u0930"
+              },
+              {
+                "id": "283",
+                "english_name": "shivapuri",
+                "nepali_name": "\u0936\u093f\u0935\u092a\u0941\u0930\u0940"
+              },
+              {
+                "id": "281",
+                "english_name": "suryagadhi",
+                "nepali_name": "\u0938\u0941\u0930\u094d\u092f\u0917\u0922\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "29",
+          "name": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930 / Bhaktapur",
+          "nepali_name": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930",
+          "english_name": "bhaktapur",
+          "code": "bhaktapur",
+          "locations": [
+            [
+              {
+                "id": "266",
+                "english_name": "changunarayan",
+                "nepali_name": "\u091a\u093e\u0901\u0917\u0941\u0928\u093e\u0930\u093e\u092f\u0923"
+              },
+              {
+                "id": "263",
+                "english_name": "bhaktapur",
+                "nepali_name": "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
+              },
+              {
+                "id": "264",
+                "english_name": "madhayapur thimi",
+                "nepali_name": "\u092e\u0927\u094d\u092f\u092a\u0941\u0930 \u0925\u093f\u092e\u0940"
+              },
+              {
+                "id": "265",
+                "english_name": "suryabinayak",
+                "nepali_name": "\u0938\u0942\u0930\u094d\u092f\u0935\u093f\u0928\u093e\u092f\u0915"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "30",
+          "name": "\u092e\u0915\u0935\u093e\u0928\u092a\u0941\u0930 / Makwanpur",
+          "nepali_name": "\u092e\u0915\u0935\u093e\u0928\u092a\u0941\u0930",
+          "english_name": "makwanpur",
+          "code": "makwanpur",
+          "locations": [
+            [
+              {
+                "id": "315",
+                "english_name": "indra sarobar",
+                "nepali_name": "\u0908\u0928\u094d\u0926\u094d\u0930 \u0938\u0930\u094b\u0935\u0930"
+              },
+              {
+                "id": "314",
+                "english_name": "kailash",
+                "nepali_name": "\u0915\u0948\u0932\u093e\u0936"
+              },
+              {
+                "id": "307",
+                "english_name": "thaha",
+                "nepali_name": "\u0925\u093e\u0939\u093e"
+              },
+              {
+                "id": "309",
+                "english_name": "bakaiya",
+                "nepali_name": "\u092c\u0915\u0948\u092f\u093e"
+              },
+              {
+                "id": "308",
+                "english_name": "bagmati",
+                "nepali_name": "\u092c\u093e\u0917\u094d\u092e\u0924\u0940"
+              },
+              {
+                "id": "310",
+                "english_name": "bhimphedhi",
+                "nepali_name": "\u092d\u0940\u092e\u092b\u0947\u0926\u0940"
+              },
+              {
+                "id": "312",
+                "english_name": "makwanpurgadhi",
+                "nepali_name": "\u092e\u0915\u0935\u093e\u0928\u092a\u0941\u0930\u0917\u0922\u0940"
+              },
+              {
+                "id": "311",
+                "english_name": "manahari",
+                "nepali_name": "\u092e\u0928\u0939\u0930\u0940"
+              },
+              {
+                "id": "313",
+                "english_name": "raksirang",
+                "nepali_name": "\u0930\u093e\u0915\u094d\u0938\u093f\u0930\u093e\u0919\u094d\u0917"
+              },
+              {
+                "id": "306",
+                "english_name": "hetauda",
+                "nepali_name": "\u0939\u0947\u091f\u094c\u0921\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "31",
+          "name": "\u0930\u0938\u0941\u0935\u093e / Rasuwa",
+          "nepali_name": "\u0930\u0938\u0941\u0935\u093e",
+          "english_name": "rasuwa",
+          "code": "rasuwa",
+          "locations": [
+            [
+              {
+                "id": "290",
+                "english_name": "uttargaya",
+                "nepali_name": "\u0909\u0924\u094d\u0924\u0930\u0917\u092f\u093e"
+              },
+              {
+                "id": "291",
+                "english_name": "kalika",
+                "nepali_name": "\u0915\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "289",
+                "english_name": "gosaikunda",
+                "nepali_name": "\u0917\u094b\u0938\u093e\u0908\u0915\u0941\u0923\u094d\u0921"
+              },
+              {
+                "id": "292",
+                "english_name": "naukunda",
+                "nepali_name": "\u0928\u094c\u0915\u0941\u0923\u094d\u0921"
+              },
+              {
+                "id": "288",
+                "english_name": "parbatikunda",
+                "nepali_name": "\u092a\u093e\u0930\u094d\u0935\u0924\u0940\u0915\u0941\u0923\u094d\u0921"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "32",
+          "name": "\u0930\u093e\u092e\u0947\u091b\u093e\u092a / Ramechhap",
+          "nepali_name": "\u0930\u093e\u092e\u0947\u091b\u093e\u092a",
+          "english_name": "ramechhap",
+          "code": "ramechhap",
+          "locations": [
+            [
+              {
+                "id": "217",
+                "english_name": "umakunda",
+                "nepali_name": "\u0909\u092e\u093e\u0915\u0941\u0923\u094d\u0921"
+              },
+              {
+                "id": "221",
+                "english_name": "khanda devi",
+                "nepali_name": "\u0916\u093e\u0921\u093e\u0926\u0947\u0935\u0940"
+              },
+              {
+                "id": "218",
+                "english_name": "gokulganga",
+                "nepali_name": "\u0917\u094b\u0915\u0941\u0932\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "220",
+                "english_name": "doramba",
+                "nepali_name": "\u0926\u094b\u0930\u092e\u094d\u092c\u093e"
+              },
+              {
+                "id": "216",
+                "english_name": "manthali",
+                "nepali_name": "\u092e\u0928\u094d\u0925\u0932\u0940"
+              },
+              {
+                "id": "215",
+                "english_name": "ramechhap",
+                "nepali_name": "\u0930\u093e\u092e\u0947\u091b\u093e\u092a"
+              },
+              {
+                "id": "219",
+                "english_name": "likhu",
+                "nepali_name": "\u0932\u093f\u0916\u0941"
+              },
+              {
+                "id": "222",
+                "english_name": "sunapathi",
+                "nepali_name": "\u0938\u0941\u0928\u093e\u092a\u0924\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "33",
+          "name": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930 / Lalitpur",
+          "nepali_name": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930",
+          "english_name": "lalitpur",
+          "code": "lalitpur",
+          "locations": [
+            [
+              {
+                "id": "262",
+                "english_name": "konjyosom",
+                "nepali_name": "\u0915\u094b\u0928\u094d\u091c\u094d\u092f\u094b\u0938\u094b\u092e"
+              },
+              {
+                "id": "258",
+                "english_name": "godawari",
+                "nepali_name": "\u0917\u094b\u0926\u093e\u0935\u0930\u0940"
+              },
+              {
+                "id": "261",
+                "english_name": "mahangkal",
+                "nepali_name": "\u092e\u0939\u093e\u0902\u0915\u093e\u0932"
+              },
+              {
+                "id": "259",
+                "english_name": "mahalaxmi",
+                "nepali_name": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940"
+              },
+              {
+                "id": "257",
+                "english_name": "lalitpur",
+                "nepali_name": "\u0932\u0932\u093f\u0924\u092a\u0941\u0930"
+              },
+              {
+                "id": "260",
+                "english_name": "bagmati",
+                "nepali_name": "\u0935\u093e\u0917\u094d\u092e\u0924\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "34",
+          "name": "\u0938\u093f\u0928\u094d\u0927\u0941\u092a\u093e\u0932\u094d\u091a\u094b\u0915 / Sindhupalchowk",
+          "nepali_name": "\u0938\u093f\u0928\u094d\u0927\u0941\u092a\u093e\u0932\u094d\u091a\u094b\u0915",
+          "english_name": "sindhupalchowk",
+          "code": "sindhupalchowk",
+          "locations": [
+            [
+              {
+                "id": "238",
+                "english_name": "indrawati",
+                "nepali_name": "\u0908\u0928\u094d\u0926\u094d\u0930\u093e\u0935\u0924\u0940"
+              },
+              {
+                "id": "234",
+                "english_name": "chautara sangachowkgadhi",
+                "nepali_name": "\u091a\u094c\u0924\u093e\u0930\u093e \u0938\u093e\u0901\u0917\u093e\u091a\u094b\u0915\u0917\u0922\u0940"
+              },
+              {
+                "id": "242",
+                "english_name": "jugal",
+                "nepali_name": "\u091c\u0941\u0917\u0932"
+              },
+              {
+                "id": "243",
+                "english_name": "tripurasundhari",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e\u0938\u0941\u0928\u094d\u0926\u0930\u0940"
+              },
+              {
+                "id": "241",
+                "english_name": "paanchpokhari thangpal",
+                "nepali_name": "\u092a\u093e\u0901\u091a\u092a\u094b\u0916\u0930\u0940 \u0925\u093e\u0919\u092a\u093e\u0932"
+              },
+              {
+                "id": "240",
+                "english_name": "balefi",
+                "nepali_name": "\u092c\u0932\u0947\u092b\u0940"
+              },
+              {
+                "id": "232",
+                "english_name": "baahrabise",
+                "nepali_name": "\u092c\u093e\u0939\u094d\u0935\u0935\u093f\u0938\u0947"
+              },
+              {
+                "id": "239",
+                "english_name": "bhotekoshi",
+                "nepali_name": "\u092d\u094b\u091f\u0947\u0915\u094b\u0936\u0940"
+              },
+              {
+                "id": "233",
+                "english_name": "melamchi",
+                "nepali_name": "\u092e\u0947\u0932\u092e\u094d\u091a\u0940"
+              },
+              {
+                "id": "235",
+                "english_name": "lisankhu pakhar",
+                "nepali_name": "\u0932\u093f\u0938\u0902\u0916\u0941 \u092a\u093e\u0916\u0930"
+              },
+              {
+                "id": "236",
+                "english_name": "sunkoshi",
+                "nepali_name": "\u0938\u0941\u0928\u0915\u094b\u0936\u0940"
+              },
+              {
+                "id": "237",
+                "english_name": "helambu",
+                "nepali_name": "\u0939\u0947\u0932\u092e\u094d\u092c\u0941"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "35",
+          "name": "\u0938\u093f\u0928\u094d\u0927\u0941\u0932\u0940 / Sindhuli",
+          "nepali_name": "\u0938\u093f\u0928\u094d\u0927\u0941\u0932\u0940",
+          "english_name": "sindhuli",
+          "code": "sindhuli",
+          "locations": [
+            [
+              {
+                "id": "211",
+                "english_name": "ghyanglekh",
+                "nepali_name": "\u0918\u094d\u092f\u093e\u0919\u0932\u0947\u0916"
+              },
+              {
+                "id": "207",
+                "english_name": "kamlamai",
+                "nepali_name": "\u0915\u092e\u0932\u093e\u092e\u093e\u0908"
+              },
+              {
+                "id": "213",
+                "english_name": "golanjor",
+                "nepali_name": "\u0917\u094b\u0932\u0928\u094d\u091c\u094b\u0930"
+              },
+              {
+                "id": "208",
+                "english_name": "tinpatan",
+                "nepali_name": "\u0924\u093f\u0928\u092a\u093e\u091f\u0928"
+              },
+              {
+                "id": "206",
+                "english_name": "dudhauli",
+                "nepali_name": "\u0926\u0941\u0927\u094c\u0932\u0940"
+              },
+              {
+                "id": "209",
+                "english_name": "phikkal",
+                "nepali_name": "\u092b\u093f\u0915\u094d\u0915\u0932"
+              },
+              {
+                "id": "214",
+                "english_name": "marin thakur",
+                "nepali_name": "\u092e\u0930\u093f\u0928 \u0920\u093e\u0915\u0941\u0930"
+              },
+              {
+                "id": "212",
+                "english_name": "sunkoshi",
+                "nepali_name": "\u0938\u0941\u0928\u0915\u094b\u0936\u0940"
+              },
+              {
+                "id": "210",
+                "english_name": "hariharpurgadhi",
+                "nepali_name": "\u0939\u0930\u093f\u0939\u0930\u092a\u0941\u0930\u0917\u0922\u0940"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "GP": {
+      "name": "Gandaki Pradesh",
+      "districts": [
+        {
+          "id": "36",
+          "name": "\u0915\u093e\u0938\u094d\u0915\u0940 / Kaski",
+          "nepali_name": "\u0915\u093e\u0938\u094d\u0915\u0940",
+          "english_name": "kaski",
+          "code": "kaski",
+          "locations": [
+            [
+              {
+                "id": "406",
+                "english_name": "anapurna",
+                "nepali_name": "\u0905\u0928\u094d\u0928\u092a\u0942\u0930\u094d\u0923"
+              },
+              {
+                "id": "402",
+                "english_name": "pokhara lekhnath",
+                "nepali_name": "\u092a\u094b\u0916\u0930\u093e \u0932\u0947\u0916\u0928\u093e\u0925"
+              },
+              {
+                "id": "405",
+                "english_name": "machhapuchhre",
+                "nepali_name": "\u092e\u093e\u091b\u093e\u092a\u0941\u091a\u094d\u091b\u094d\u0930\u0947"
+              },
+              {
+                "id": "404",
+                "english_name": "madi",
+                "nepali_name": "\u092e\u093e\u0926\u0940"
+              },
+              {
+                "id": "403",
+                "english_name": "rupa",
+                "nepali_name": "\u0930\u0941\u092a\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "37",
+          "name": "\u0917\u094b\u0930\u0916\u093e / Gorkha",
+          "nepali_name": "\u0917\u094b\u0930\u0916\u093e",
+          "english_name": "gorkha",
+          "code": "gorkha",
+          "locations": [
+            [
+              {
+                "id": "367",
+                "english_name": "ajirkot",
+                "nepali_name": "\u0905\u091c\u093f\u0930\u0915\u094b\u091f"
+              },
+              {
+                "id": "368",
+                "english_name": "aarughat",
+                "nepali_name": "\u0906\u0930\u0941\u0918\u093e\u091f"
+              },
+              {
+                "id": "372",
+                "english_name": "gandaki",
+                "nepali_name": "\u0917\u0923\u094d\u0921\u0915\u0940"
+              },
+              {
+                "id": "362",
+                "english_name": "gorkha",
+                "nepali_name": "\u0917\u094b\u0930\u0916\u093e"
+              },
+              {
+                "id": "364",
+                "english_name": "chumnubri",
+                "nepali_name": "\u091a\u0941\u092e\u0928\u0941\u0935\u094d\u0930\u0940"
+              },
+              {
+                "id": "365",
+                "english_name": "dharche",
+                "nepali_name": "\u0927\u093e\u0930\u094d\u091a\u0947"
+              },
+              {
+                "id": "363",
+                "english_name": "palungtar",
+                "nepali_name": "\u092a\u093e\u0932\u0941\u0919\u091f\u093e\u0930"
+              },
+              {
+                "id": "369",
+                "english_name": "bhimsen",
+                "nepali_name": "\u092d\u093f\u092e\u0938\u0947\u0928"
+              },
+              {
+                "id": "371",
+                "english_name": "shahid lakhan",
+                "nepali_name": "\u0936\u0939\u093f\u0926 \u0932\u0916\u0928"
+              },
+              {
+                "id": "370",
+                "english_name": "siranchok",
+                "nepali_name": "\u0938\u093f\u0930\u093e\u0928\u091a\u094b\u0915"
+              },
+              {
+                "id": "366",
+                "english_name": "sulikot",
+                "nepali_name": "\u0938\u0941\u0932\u0940\u0915\u094b\u091f"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "name": "\u0924\u0928\u0939\u0941\u0901 / Tanahun",
+          "nepali_name": "\u0924\u0928\u0939\u0941\u0901",
+          "english_name": "tanahun",
+          "code": "tanahun",
+          "locations": [
+            [
+              {
+                "id": "385",
+                "english_name": "aabukhaireni",
+                "nepali_name": "\u0906\u0901\u092c\u0941\u0916\u0948\u0930\u0947\u0928\u0940"
+              },
+              {
+                "id": "386",
+                "english_name": "rishing",
+                "nepali_name": "\u090b\u0937\u093f\u0902\u0919\u094d\u0917"
+              },
+              {
+                "id": "387",
+                "english_name": "ghiring",
+                "nepali_name": "\u0918\u093f\u0930\u093f\u0919"
+              },
+              {
+                "id": "388",
+                "english_name": "devghat",
+                "nepali_name": "\u0926\u0947\u0935\u0918\u093e\u091f"
+              },
+              {
+                "id": "389",
+                "english_name": "bandipur",
+                "nepali_name": "\u092c\u0928\u094d\u0926\u0940\u092a\u0941\u0930"
+              },
+              {
+                "id": "383",
+                "english_name": "byas",
+                "nepali_name": "\u092c\u094d\u092f\u093e\u0938"
+              },
+              {
+                "id": "381",
+                "english_name": "bhanu",
+                "nepali_name": "\u092d\u093e\u0928\u0941"
+              },
+              {
+                "id": "382",
+                "english_name": "bhimad",
+                "nepali_name": "\u092d\u093f\u092e\u093e\u0926"
+              },
+              {
+                "id": "390",
+                "english_name": "myagde",
+                "nepali_name": "\u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0947"
+              },
+              {
+                "id": "384",
+                "english_name": "shukla gandaki",
+                "nepali_name": "\u0936\u0941\u0915\u094d\u0932\u093e\u0917\u0923\u094d\u0921\u0915\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "39",
+          "name": "\u0928\u0935\u0932\u092a\u0930\u093e\u0938\u0940 (\u092a\u094d\u0930. \u096a) / Nawalparasi (Prov. 4)",
+          "nepali_name": "\u0928\u0935\u0932\u092a\u0930\u093e\u0938\u0940 (\u092a\u094d\u0930. \u096a)",
+          "english_name": "nawalparasi (prov. 4)",
+          "code": "nawalparasi4",
+          "locations": [
+            [
+              {
+                "id": "462",
+                "english_name": "kawasoti",
+                "nepali_name": "\u0915\u093e\u0935\u093e\u0938\u094b\u0924\u0940"
+              },
+              {
+                "id": "460",
+                "english_name": "gai\u1e0dako\u1e6d",
+                "nepali_name": "\u0917\u0948\u0921\u093e\u0915\u094b\u091f"
+              },
+              {
+                "id": "461",
+                "english_name": "devchuli",
+                "nepali_name": "\u0926\u0947\u0935\u091a\u0941\u0932\u0940"
+              },
+              {
+                "id": "468",
+                "english_name": "bungdikali",
+                "nepali_name": "\u092c\u0941\u0919\u0926\u0940\u0915\u093e\u0932\u0940"
+              },
+              {
+                "id": "467",
+                "english_name": "buling\u1e6dar",
+                "nepali_name": "\u092c\u0941\u0932\u093f\u0919\u091f\u093e\u0930"
+              },
+              {
+                "id": "463",
+                "english_name": "madhyabindu",
+                "nepali_name": "\u092e\u0927\u094d\u092f\u0935\u093f\u0928\u094d\u0926\u0941"
+              },
+              {
+                "id": "470",
+                "english_name": "binayi triveni",
+                "nepali_name": "\u0935\u093f\u0928\u092f\u0940 \u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "469",
+                "english_name": "hupsekot",
+                "nepali_name": "\u0939\u0941\u092a\u094d\u0938\u0947\u0915\u094b\u091f"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "40",
+          "name": "\u092a\u0930\u094d\u0935\u0924 / Parbat",
+          "nepali_name": "\u092a\u0930\u094d\u0935\u0924",
+          "english_name": "parbat",
+          "code": "parbat",
+          "locations": [
+            [
+              {
+                "id": "722",
+                "english_name": "kushma",
+                "nepali_name": "\u0915\u0941\u0936\u094d\u092e\u093e"
+              },
+              {
+                "id": "418",
+                "english_name": "jaljala",
+                "nepali_name": "\u091c\u0932\u091c\u0932\u093e"
+              },
+              {
+                "id": "421",
+                "english_name": "painyu",
+                "nepali_name": "\u092a\u0948\u0902\u092f\u0941"
+              },
+              {
+                "id": "416",
+                "english_name": "phalebas",
+                "nepali_name": "\u092b\u0932\u0947\u0935\u093e\u0938"
+              },
+              {
+                "id": "419",
+                "english_name": "mahashila",
+                "nepali_name": "\u092e\u0939\u093e\u0936\u093f\u0932\u093e"
+              },
+              {
+                "id": "420",
+                "english_name": "madi",
+                "nepali_name": "\u092e\u093e\u0926\u0940"
+              },
+              {
+                "id": "417",
+                "english_name": "bihadi",
+                "nepali_name": "\u0935\u093f\u0939\u093e\u0926\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "41",
+          "name": "\u092e\u0928\u093e\u0919 / Manang",
+          "nepali_name": "\u092e\u0928\u093e\u0919",
+          "english_name": "manang",
+          "code": "manang",
+          "locations": [
+            [
+              {
+                "id": "408",
+                "english_name": "chame",
+                "nepali_name": "\u091a\u093e\u092e\u0947"
+              },
+              {
+                "id": "407",
+                "english_name": "nashong",
+                "nepali_name": "\u0928\u0936\u094b\u0919"
+              },
+              {
+                "id": "721",
+                "english_name": "narfu",
+                "nepali_name": "\u0928\u093e\u0930\u092b\u0942"
+              },
+              {
+                "id": "409",
+                "english_name": "neshyang",
+                "nepali_name": "\u0928\u0947\u0938\u094d\u092f\u093e\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "42",
+          "name": "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 / Mustang",
+          "nepali_name": "\u092e\u0941\u0938\u094d\u0924\u093e\u0919",
+          "english_name": "mustang",
+          "code": "mustang",
+          "locations": [
+            [
+              {
+                "id": "411",
+                "english_name": "gharapajhong",
+                "nepali_name": "\u0918\u0930\u092a\u091d\u094b\u0919"
+              },
+              {
+                "id": "412",
+                "english_name": "thasang",
+                "nepali_name": "\u0925\u093e\u0938\u093e\u0919"
+              },
+              {
+                "id": "414",
+                "english_name": "dalome",
+                "nepali_name": "\u0926\u093e\u0932\u094b\u092e\u0947"
+              },
+              {
+                "id": "410",
+                "english_name": "bahgaun muktikchhetra",
+                "nepali_name": "\u092c\u093e\u0939\u094d\u0917\u093e\u0909\u0901 \u092e\u0941\u0915\u094d\u0924\u093f\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+              },
+              {
+                "id": "413",
+                "english_name": "lomanthang",
+                "nepali_name": "\u0932\u094b\u092e\u0928\u094d\u0925\u093e\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "43",
+          "name": "\u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0940 / Myagdi",
+          "nepali_name": "\u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0940",
+          "english_name": "myagdi",
+          "code": "myagdi",
+          "locations": [
+            [
+              {
+                "id": "427",
+                "english_name": "annapurna",
+                "nepali_name": "\u0905\u0928\u094d\u0928\u092a\u0942\u0930\u094d\u0923"
+              },
+              {
+                "id": "726",
+                "english_name": "dhorpatan",
+                "nepali_name": "\u0922\u094b\u0930\u092a\u093e\u091f\u0928"
+              },
+              {
+                "id": "425",
+                "english_name": "dhawalagiri",
+                "nepali_name": "\u0927\u0935\u0932\u093e\u0917\u093f\u0930\u0940"
+              },
+              {
+                "id": "422",
+                "english_name": "beni",
+                "nepali_name": "\u092c\u0947\u0928\u0940"
+              },
+              {
+                "id": "423",
+                "english_name": "mangala",
+                "nepali_name": "\u092e\u0902\u0917\u0932\u093e"
+              },
+              {
+                "id": "424",
+                "english_name": "malika",
+                "nepali_name": "\u092e\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "426",
+                "english_name": "raghuganga",
+                "nepali_name": "\u0930\u0918\u0941\u0917\u0902\u0917\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "44",
+          "name": "\u0932\u092e\u091c\u0941\u0919 / Lamjung",
+          "nepali_name": "\u0932\u092e\u091c\u0941\u0919",
+          "english_name": "lamjung",
+          "code": "lamjung",
+          "locations": [
+            [
+              {
+                "id": "379",
+                "english_name": "kwaholasothar",
+                "nepali_name": "\u0915\u094d\u0935\u094d\u0939\u094b\u0932\u093e\u0938\u094b\u0925\u093e\u0930"
+              },
+              {
+                "id": "380",
+                "english_name": "dudhpokhari",
+                "nepali_name": "\u0926\u0941\u0927\u092a\u094b\u0916\u0930\u0940"
+              },
+              {
+                "id": "378",
+                "english_name": "dordi",
+                "nepali_name": "\u0926\u094b\u0930\u094d\u0926\u0940"
+              },
+              {
+                "id": "373",
+                "english_name": "beshi sahar",
+                "nepali_name": "\u092c\u0947\u0936\u0940\u0936\u0939\u0930"
+              },
+              {
+                "id": "375",
+                "english_name": "madhya nepal",
+                "nepali_name": "\u092e\u0927\u094d\u092f\u0928\u0947\u092a\u093e\u0932"
+              },
+              {
+                "id": "377",
+                "english_name": "marshyangdi",
+                "nepali_name": "\u092e\u0930\u094d\u0938\u094d\u092f\u093e\u0919\u0926\u0940"
+              },
+              {
+                "id": "376",
+                "english_name": "rinus",
+                "nepali_name": "\u0930\u093e\u0907\u0928\u0938"
+              },
+              {
+                "id": "374",
+                "english_name": "sundarbazaar",
+                "nepali_name": "\u0938\u0941\u0928\u094d\u0926\u0930\u092c\u091c\u093e\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "45",
+          "name": "\u0935\u093e\u0917\u094d\u0932\u0941\u0919 / Baglung",
+          "nepali_name": "\u0935\u093e\u0917\u094d\u0932\u0941\u0919",
+          "english_name": "baglung",
+          "code": "baglung",
+          "locations": [
+            [
+              {
+                "id": "433",
+                "english_name": "ka\u1e6dhekhola",
+                "nepali_name": "\u0915\u093e\u0920\u0947\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "431",
+                "english_name": "galakota",
+                "nepali_name": "\u0917\u0932\u0915\u094b\u091f"
+              },
+              {
+                "id": "429",
+                "english_name": "jaimuni",
+                "nepali_name": "\u091c\u0948\u092e\u0941\u0928\u0940"
+              },
+              {
+                "id": "430",
+                "english_name": "dhorpatan",
+                "nepali_name": "\u0922\u094b\u0930\u092a\u093e\u091f\u0928"
+              },
+              {
+                "id": "437",
+                "english_name": "tamankhola",
+                "nepali_name": "\u0924\u092e\u093e\u0928\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "432",
+                "english_name": "tarakhola",
+                "nepali_name": "\u0924\u093e\u0930\u093e\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "436",
+                "english_name": "nishikhola",
+                "nepali_name": "\u0928\u093f\u0938\u0940\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "435",
+                "english_name": "badigad",
+                "nepali_name": "\u092c\u0921\u0940\u0917\u093e\u0921"
+              },
+              {
+                "id": "428",
+                "english_name": "baglung",
+                "nepali_name": "\u092c\u093e\u0917\u094d\u0932\u0941\u0919"
+              },
+              {
+                "id": "434",
+                "english_name": "bareng",
+                "nepali_name": "\u0935\u0930\u0947\u0919"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "46",
+          "name": "\u0938\u094d\u092f\u093e\u0919\u091c\u093e / Syangja",
+          "nepali_name": "\u0938\u094d\u092f\u093e\u0919\u091c\u093e",
+          "english_name": "syangja",
+          "code": "syangja",
+          "locations": [
+            [
+              {
+                "id": "401",
+                "english_name": "arjun chaupari",
+                "nepali_name": "\u0905\u0930\u094d\u091c\u0941\u0928 \u091a\u094c\u092a\u093e\u0930\u0940"
+              },
+              {
+                "id": "397",
+                "english_name": "aadhikhola",
+                "nepali_name": "\u0906\u0901\u0927\u0940\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "398",
+                "english_name": "kaligandaki",
+                "nepali_name": "\u0915\u093e\u0932\u0940\u0917\u0923\u094d\u0921\u0915\u0940"
+              },
+              {
+                "id": "392",
+                "english_name": "galyang",
+                "nepali_name": "\u0917\u0932\u094d\u092f\u093e\u0919"
+              },
+              {
+                "id": "395",
+                "english_name": "chapakot",
+                "nepali_name": "\u091a\u093e\u092a\u093e\u0915\u094b\u091f"
+              },
+              {
+                "id": "391",
+                "english_name": "putalibazaar",
+                "nepali_name": "\u092a\u0941\u0924\u0932\u0940\u092c\u091c\u093e\u0930"
+              },
+              {
+                "id": "399",
+                "english_name": "phedikhola",
+                "nepali_name": "\u092b\u0947\u0926\u0940\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "393",
+                "english_name": "bhirkot",
+                "nepali_name": "\u092d\u093f\u0930\u0915\u094b\u091f"
+              },
+              {
+                "id": "394",
+                "english_name": "waling",
+                "nepali_name": "\u0935\u093e\u0932\u093f\u0919"
+              },
+              {
+                "id": "396",
+                "english_name": "biruwa",
+                "nepali_name": "\u0935\u093f\u0930\u0941\u0935\u093e"
+              },
+              {
+                "id": "400",
+                "english_name": "harinaas",
+                "nepali_name": "\u0939\u0930\u0940\u0928\u093e\u0938"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "P5": {
+      "name": "Province No. 5",
+      "districts": [
+        {
+          "id": "47",
+          "name": "\u0905\u0930\u094d\u0918\u093e\u0916\u093e\u0901\u091a\u0940 / Arghakhanchi",
+          "nepali_name": "\u0905\u0930\u094d\u0918\u093e\u0916\u093e\u0901\u091a\u0940",
+          "english_name": "arghakhanchi",
+          "code": "arghakhanchi",
+          "locations": [
+            [
+              {
+                "id": "494",
+                "english_name": "chatradev",
+                "nepali_name": "\u091b\u0924\u094d\u0930\u0926\u0947\u0935"
+              },
+              {
+                "id": "495",
+                "english_name": "pa\u1e47ini",
+                "nepali_name": "\u092a\u093e\u0923\u093f\u0928\u0940"
+              },
+              {
+                "id": "493",
+                "english_name": "bhumikasthana",
+                "nepali_name": "\u092d\u0942\u092e\u093f\u0915\u093e\u0938\u094d\u0925\u093e\u0928"
+              },
+              {
+                "id": "496",
+                "english_name": "malarani",
+                "nepali_name": "\u092e\u093e\u0932\u093e\u0930\u093e\u0928\u0940"
+              },
+              {
+                "id": "492",
+                "english_name": "sandhikharka",
+                "nepali_name": "\u0938\u0928\u094d\u0927\u093f\u0916\u0930\u094d\u0915"
+              },
+              {
+                "id": "491",
+                "english_name": "sitaganga",
+                "nepali_name": "\u0938\u093f\u0924\u0917\u0902\u0917\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "name": "\u0915\u092a\u093f\u0932\u0935\u0938\u094d\u0924\u0941 / Kapilvastu",
+          "nepali_name": "\u0915\u092a\u093f\u0932\u0935\u0938\u094d\u0924\u0941",
+          "english_name": "kapilvastu",
+          "code": "kapilvastu",
+          "locations": [
+            [
+              {
+                "id": "497",
+                "english_name": "kapilvastu",
+                "nepali_name": "\u0915\u092a\u093f\u0932\u0935\u0938\u094d\u0924\u0941"
+              },
+              {
+                "id": "501",
+                "english_name": "krishna nagar",
+                "nepali_name": "\u0915\u0943\u0937\u094d\u0923\u0928\u0917\u0930"
+              },
+              {
+                "id": "502",
+                "english_name": "ba\u1e47aga\u1e45ga",
+                "nepali_name": "\u092c\u093e\u0923\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "498",
+                "english_name": "buddhabhumi",
+                "nepali_name": "\u092c\u0941\u0926\u094d\u0927\u092d\u0942\u092e\u093f"
+              },
+              {
+                "id": "500",
+                "english_name": "maharajgunj",
+                "nepali_name": "\u092e\u0939\u093e\u0930\u093e\u091c\u0917\u091e\u094d\u091c"
+              },
+              {
+                "id": "503",
+                "english_name": "mayadevi",
+                "nepali_name": "\u092e\u093e\u092f\u093e\u0926\u0947\u0935\u0940"
+              },
+              {
+                "id": "504",
+                "english_name": "yasodhara",
+                "nepali_name": "\u092f\u0938\u094b\u0927\u0930\u093e"
+              },
+              {
+                "id": "506",
+                "english_name": "bijaynagar",
+                "nepali_name": "\u0935\u093f\u091c\u092f\u0928\u0917\u0930"
+              },
+              {
+                "id": "499",
+                "english_name": "sivraj",
+                "nepali_name": "\u0936\u093f\u0935\u0930\u093e\u091c"
+              },
+              {
+                "id": "505",
+                "english_name": "sudhodhan",
+                "nepali_name": "\u0936\u0941\u0926\u094d\u0927\u094b\u0927\u0928"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "49",
+          "name": "\u0917\u0941\u0932\u094d\u092e\u0940 / Gulmi",
+          "nepali_name": "\u0917\u0941\u0932\u094d\u092e\u0940",
+          "english_name": "gulmi",
+          "code": "gulmi",
+          "locations": [
+            [
+              {
+                "id": "440",
+                "english_name": "ishma",
+                "nepali_name": "\u0907\u0938\u094d\u092e\u093e"
+              },
+              {
+                "id": "441",
+                "english_name": "kaligandaki",
+                "nepali_name": "\u0915\u093e\u0932\u0940\u0917\u0923\u094d\u0921\u0915\u0940"
+              },
+              {
+                "id": "442",
+                "english_name": "gulmi durbar",
+                "nepali_name": "\u0917\u0941\u0932\u094d\u092e\u0940\u0926\u0930\u092c\u093e\u0930"
+              },
+              {
+                "id": "444",
+                "english_name": "chandrakot",
+                "nepali_name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u094b\u091f"
+              },
+              {
+                "id": "446",
+                "english_name": "chatrakot",
+                "nepali_name": "\u091b\u0924\u094d\u0930\u0915\u094b\u091f"
+              },
+              {
+                "id": "447",
+                "english_name": "dhurkot",
+                "nepali_name": "\u0927\u0941\u0930\u094d\u0915\u094b\u091f"
+              },
+              {
+                "id": "448",
+                "english_name": "madane",
+                "nepali_name": "\u092e\u0926\u093e\u0928\u0947"
+              },
+              {
+                "id": "449",
+                "english_name": "malika",
+                "nepali_name": "\u092e\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "728",
+                "english_name": "musikot",
+                "nepali_name": "\u092e\u0941\u0938\u093f\u0915\u094b\u091f"
+              },
+              {
+                "id": "445",
+                "english_name": "ruru",
+                "nepali_name": "\u0930\u0941\u0930\u0941"
+              },
+              {
+                "id": "439",
+                "english_name": "resunga",
+                "nepali_name": "\u0930\u0947\u0938\u0941\u0919\u094d\u0917\u093e"
+              },
+              {
+                "id": "443",
+                "english_name": "satyawati",
+                "nepali_name": "\u0938\u0924\u094d\u092f\u0935\u0924\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "50",
+          "name": "\u0926\u093e\u0919 / Dang",
+          "nepali_name": "\u0926\u093e\u0919",
+          "english_name": "dang",
+          "code": "dang",
+          "locations": [
+            [
+              {
+                "id": "550",
+                "english_name": "gadawa",
+                "nepali_name": "\u0917\u0922\u0935\u093e"
+              },
+              {
+                "id": "546",
+                "english_name": "ghorahi",
+                "nepali_name": "\u0918\u094b\u0930\u093e\u0939\u0940"
+              },
+              {
+                "id": "545",
+                "english_name": "tulashipur",
+                "nepali_name": "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930"
+              },
+              {
+                "id": "549",
+                "english_name": "dangisharan",
+                "nepali_name": "\u0926\u0902\u0917\u0940\u0936\u0930\u0923"
+              },
+              {
+                "id": "548",
+                "english_name": "bangalachuli",
+                "nepali_name": "\u092c\u0902\u0917\u0932\u093e\u091a\u0941\u0932\u0940"
+              },
+              {
+                "id": "554",
+                "english_name": "babai",
+                "nepali_name": "\u092c\u092c\u0908"
+              },
+              {
+                "id": "551",
+                "english_name": "rajpur",
+                "nepali_name": "\u0930\u093e\u091c\u092a\u0941\u0930"
+              },
+              {
+                "id": "552",
+                "english_name": "rapti",
+                "nepali_name": "\u0930\u093e\u092a\u094d\u0924\u0940"
+              },
+              {
+                "id": "547",
+                "english_name": "lamahi",
+                "nepali_name": "\u0932\u092e\u0939\u0940"
+              },
+              {
+                "id": "553",
+                "english_name": "shantinagar",
+                "nepali_name": "\u0936\u093e\u0928\u094d\u0924\u093f\u0928\u0917\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "51",
+          "name": "\u0928\u0935\u0932\u092a\u0930\u093e\u0938\u0940 (\u092a\u094d\u0930. \u096b) / Nawalparasi (Prov. 5)",
+          "nepali_name": "\u0928\u0935\u0932\u092a\u0930\u093e\u0938\u0940 (\u092a\u094d\u0930. \u096b)",
+          "english_name": "nawalparasi (prov. 5)",
+          "code": "nawalparasi5",
+          "locations": [
+            [
+              {
+                "id": "471",
+                "english_name": "triveni susta",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940 \u0938\u0941\u0938\u094d\u0924\u093e"
+              },
+              {
+                "id": "473",
+                "english_name": "palh\u012bnandana",
+                "nepali_name": "\u092a\u093e\u0932\u094d\u0939\u0940\u0928\u0928\u094d\u0926\u0928"
+              },
+              {
+                "id": "472",
+                "english_name": "pratappur",
+                "nepali_name": "\u092a\u094d\u0930\u0924\u093e\u092a\u092a\u0941\u0930"
+              },
+              {
+                "id": "464",
+                "english_name": "bardaghat",
+                "nepali_name": "\u092c\u0930\u094d\u0926\u0918\u093e\u091f"
+              },
+              {
+                "id": "465",
+                "english_name": "ramgram",
+                "nepali_name": "\u0930\u093e\u092e\u0917\u094d\u0930\u093e\u092e"
+              },
+              {
+                "id": "474",
+                "english_name": "sarawal",
+                "nepali_name": "\u0938\u0930\u093e\u0935\u0932"
+              },
+              {
+                "id": "466",
+                "english_name": "sunwal",
+                "nepali_name": "\u0938\u0941\u0928\u0935\u0932"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "52",
+          "name": "\u092a\u093e\u0932\u094d\u092a\u093e / Palpa",
+          "nepali_name": "\u092a\u093e\u0932\u094d\u092a\u093e",
+          "english_name": "palpa",
+          "code": "palpa",
+          "locations": [
+            [
+              {
+                "id": "451",
+                "english_name": "tansen",
+                "nepali_name": "\u0924\u093e\u0928\u0938\u0947\u0928"
+              },
+              {
+                "id": "456",
+                "english_name": "tinau",
+                "nepali_name": "\u0924\u093f\u0928\u093e\u0909"
+              },
+              {
+                "id": "452",
+                "english_name": "nisdi",
+                "nepali_name": "\u0928\u093f\u0938\u094d\u0926\u0940"
+              },
+              {
+                "id": "453",
+                "english_name": "purvakhola",
+                "nepali_name": "\u092a\u0942\u0930\u094d\u0935\u0916\u094b\u0932\u093e"
+              },
+              {
+                "id": "457",
+                "english_name": "baganasakali",
+                "nepali_name": "\u092c\u0917\u0928\u093e\u0938\u0915\u093e\u0932\u0940"
+              },
+              {
+                "id": "455",
+                "english_name": "mathaga\u1e0dh\u012b",
+                "nepali_name": "\u092e\u093e\u0925\u093e\u0917\u0922\u0940"
+              },
+              {
+                "id": "454",
+                "english_name": "rambha",
+                "nepali_name": "\u0930\u092e\u094d\u092d\u093e"
+              },
+              {
+                "id": "450",
+                "english_name": "rampur",
+                "nepali_name": "\u0930\u093e\u092e\u092a\u0941\u0930"
+              },
+              {
+                "id": "458",
+                "english_name": "ribdikot",
+                "nepali_name": "\u0930\u093f\u092c\u094d\u0926\u093f\u0915\u094b\u091f"
+              },
+              {
+                "id": "459",
+                "english_name": "rainad\u0113vi chhahara",
+                "nepali_name": "\u0930\u0948\u0928\u093e\u0926\u0947\u0935\u0940 \u091b\u0939\u0930\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "53",
+          "name": "\u092a\u094d\u092f\u0942\u0920\u093e\u0928 / Pyuthan",
+          "nepali_name": "\u092a\u094d\u092f\u0942\u0920\u093e\u0928",
+          "english_name": "pyuthan",
+          "code": "pyuthan",
+          "locations": [
+            [
+              {
+                "id": "515",
+                "english_name": "yerawati",
+                "nepali_name": "\u0910\u0930\u093e\u0935\u0924\u0940"
+              },
+              {
+                "id": "509",
+                "english_name": "gaumukhi",
+                "nepali_name": "\u0917\u094c\u092e\u0941\u0916\u0940"
+              },
+              {
+                "id": "514",
+                "english_name": "jhimruk",
+                "nepali_name": "\u091d\u093f\u092e\u0930\u0941\u0915"
+              },
+              {
+                "id": "513",
+                "english_name": "naubahini",
+                "nepali_name": "\u0928\u094c\u0935\u0939\u093f\u0928\u0940"
+              },
+              {
+                "id": "508",
+                "english_name": "pyuthan",
+                "nepali_name": "\u092a\u094d\u092f\u0942\u0920\u093e\u0928"
+              },
+              {
+                "id": "512",
+                "english_name": "mallarani",
+                "nepali_name": "\u092e\u0932\u094d\u0932\u0930\u093e\u0928\u0940"
+              },
+              {
+                "id": "510",
+                "english_name": "mandawi",
+                "nepali_name": "\u092e\u093e\u0923\u094d\u0921\u0935\u0940"
+              },
+              {
+                "id": "511",
+                "english_name": "sarumarani",
+                "nepali_name": "\u0938\u0930\u0941\u092e\u093e\u0930\u093e\u0928\u0940"
+              },
+              {
+                "id": "507",
+                "english_name": "swargadwari",
+                "nepali_name": "\u0938\u094d\u0935\u0930\u094d\u0917\u0926\u094d\u0935\u093e\u0930\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "54",
+          "name": "\u092c\u0930\u094d\u0926\u093f\u092f\u093e / Bardiya",
+          "nepali_name": "\u092c\u0930\u094d\u0926\u093f\u092f\u093e",
+          "english_name": "bardiya",
+          "code": "bardiya",
+          "locations": [
+            [
+              {
+                "id": "555",
+                "english_name": "gulariya",
+                "nepali_name": "\u0917\u0941\u0932\u0930\u093f\u092f\u093e"
+              },
+              {
+                "id": "562",
+                "english_name": "geruwa",
+                "nepali_name": "\u0917\u0947\u0930\u0941\u0935\u093e"
+              },
+              {
+                "id": "558",
+                "english_name": "thakurbaba",
+                "nepali_name": "\u0920\u093e\u0915\u0941\u0930\u092c\u093e\u092c\u093e"
+              },
+              {
+                "id": "561",
+                "english_name": "badaiyatal",
+                "nepali_name": "\u092c\u0922\u0948\u092f\u093e\u0924\u093e\u0932"
+              },
+              {
+                "id": "560",
+                "english_name": "barbardiya",
+                "nepali_name": "\u092c\u093e\u0930\u092c\u0930\u094d\u0926\u093f\u092f\u093e"
+              },
+              {
+                "id": "559",
+                "english_name": "basgadi",
+                "nepali_name": "\u092c\u093e\u0938\u0917\u0922\u0940"
+              },
+              {
+                "id": "556",
+                "english_name": "madhuban",
+                "nepali_name": "\u092e\u0927\u0941\u0935\u0928"
+              },
+              {
+                "id": "557",
+                "english_name": "rajapur",
+                "nepali_name": "\u0930\u093e\u091c\u093e\u092a\u0941\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "55",
+          "name": "\u092c\u093e\u0901\u0915\u0947 / Banke",
+          "nepali_name": "\u092c\u093e\u0901\u0915\u0947",
+          "english_name": "banke",
+          "code": "banke",
+          "locations": [
+            [
+              {
+                "id": "584",
+                "english_name": "kohalpur",
+                "nepali_name": "\u0915\u094b\u0939\u0932\u092a\u0941\u0930"
+              },
+              {
+                "id": "588",
+                "english_name": "khajura",
+                "nepali_name": "\u0916\u091c\u0941\u0930\u093e"
+              },
+              {
+                "id": "590",
+                "english_name": "janaki",
+                "nepali_name": "\u091c\u093e\u0928\u0915\u0940"
+              },
+              {
+                "id": "589",
+                "english_name": "duduwa",
+                "nepali_name": "\u0921\u0941\u0921\u0941\u0935\u093e"
+              },
+              {
+                "id": "585",
+                "english_name": "narainapur",
+                "nepali_name": "\u0928\u0930\u0948\u0928\u093e\u092a\u0941\u0930"
+              },
+              {
+                "id": "583",
+                "english_name": "nepalgunj",
+                "nepali_name": "\u0928\u0947\u092a\u093e\u0932\u0917\u0902\u091c"
+              },
+              {
+                "id": "587",
+                "english_name": "baijnath",
+                "nepali_name": "\u092c\u0948\u091c\u0928\u093e\u0925"
+              },
+              {
+                "id": "586",
+                "english_name": "rapti sonari",
+                "nepali_name": "\u0930\u093e\u092a\u094d\u0924\u0940 \u0938\u094b\u0928\u093e\u0930\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "56",
+          "name": "\u0930\u0941\u0915\u0941\u092e (\u092a\u094d\u0930. \u096b) / Rukum (Prov. 5)",
+          "nepali_name": "\u0930\u0941\u0915\u0941\u092e (\u092a\u094d\u0930. \u096b)",
+          "english_name": "rukum (prov. 5)",
+          "code": "rukum5",
+          "locations": [
+            [
+              {
+                "id": "529",
+                "english_name": "putha uttar ganga",
+                "nepali_name": "\u092a\u0941\u0925\u093e \u0909\u0924\u094d\u0924\u0930\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "530",
+                "english_name": "bhume",
+                "nepali_name": "\u092d\u0942\u092e\u0947"
+              },
+              {
+                "id": "531",
+                "english_name": "sisne",
+                "nepali_name": "\u0938\u093f\u0938\u094d\u0928\u0947"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "57",
+          "name": "\u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940 / Rupandehi",
+          "nepali_name": "\u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940",
+          "english_name": "rupandehi",
+          "code": "rupandehi",
+          "locations": [
+            [
+              {
+                "id": "486",
+                "english_name": "omasatiya",
+                "nepali_name": "\u0913\u092e\u0938\u0924\u093f\u092f\u093e"
+              },
+              {
+                "id": "482",
+                "english_name": "kanchan",
+                "nepali_name": "\u0915\u0902\u091a\u0928"
+              },
+              {
+                "id": "483",
+                "english_name": "kotahimai",
+                "nepali_name": "\u0915\u094b\u091f\u0939\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "481",
+                "english_name": "gai\u1e0dahava",
+                "nepali_name": "\u0917\u0948\u0921\u0939\u0935\u093e"
+              },
+              {
+                "id": "480",
+                "english_name": "tilothma",
+                "nepali_name": "\u0924\u093f\u0932\u094b\u0924\u094d\u0924\u092e\u093e"
+              },
+              {
+                "id": "476",
+                "english_name": "devadaha",
+                "nepali_name": "\u0926\u0947\u0935\u0926\u0939"
+              },
+              {
+                "id": "475",
+                "english_name": "butwal",
+                "nepali_name": "\u092c\u0941\u091f\u0935\u0932"
+              },
+              {
+                "id": "484",
+                "english_name": "marchavari",
+                "nepali_name": "\u092e\u0930\u094d\u091a\u0935\u093e\u0930\u0940"
+              },
+              {
+                "id": "485",
+                "english_name": "mayadevi",
+                "nepali_name": "\u092e\u093e\u092f\u093e\u0926\u0947\u0935\u0940"
+              },
+              {
+                "id": "487",
+                "english_name": "rohi\u1e47i",
+                "nepali_name": "\u0930\u094b\u0939\u093f\u0923\u0940"
+              },
+              {
+                "id": "477",
+                "english_name": "lumbin\u012b sanskr\u0325tika",
+                "nepali_name": "\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940 \u0938\u093e\u0902\u0938\u094d\u0915\u0943\u0924\u093f\u0915"
+              },
+              {
+                "id": "490",
+                "english_name": "suddhodhana",
+                "nepali_name": "\u0936\u0941\u0926\u094d\u0927\u094b\u0927\u0928"
+              },
+              {
+                "id": "488",
+                "english_name": "sammarimai",
+                "nepali_name": "\u0938\u092e\u094d\u092e\u0930\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "479",
+                "english_name": "siddharthanagara",
+                "nepali_name": "\u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925\u0928\u0917\u0930"
+              },
+              {
+                "id": "489",
+                "english_name": "siyari",
+                "nepali_name": "\u0938\u093f\u092f\u093e\u0930\u0940"
+              },
+              {
+                "id": "478",
+                "english_name": "sainamaina",
+                "nepali_name": "\u0938\u0948\u0928\u093e\u092e\u0948\u0928\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "58",
+          "name": "\u0930\u094b\u0932\u094d\u092a\u093e / Rolpa",
+          "nepali_name": "\u0930\u094b\u0932\u094d\u092a\u093e",
+          "english_name": "rolpa",
+          "code": "rolpa",
+          "locations": [
+            [
+              {
+                "id": "517",
+                "english_name": "triveni",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "525",
+                "english_name": "thawang",
+                "nepali_name": "\u0925\u0935\u093e\u0919"
+              },
+              {
+                "id": "518",
+                "english_name": "duikhola",
+                "nepali_name": "\u0926\u0941\u0908\u0916\u094b\u0932\u0940"
+              },
+              {
+                "id": "519",
+                "english_name": "madi",
+                "nepali_name": "\u092e\u093e\u0921\u0940"
+              },
+              {
+                "id": "520",
+                "english_name": "runtigadi",
+                "nepali_name": "\u0930\u0941\u0928\u094d\u091f\u0940\u0917\u0922\u0940"
+              },
+              {
+                "id": "516",
+                "english_name": "rolpa",
+                "nepali_name": "\u0930\u094b\u0932\u094d\u092a\u093e"
+              },
+              {
+                "id": "521",
+                "english_name": "lungri",
+                "nepali_name": "\u0932\u0941\u0919\u0917\u094d\u0930\u0940"
+              },
+              {
+                "id": "522",
+                "english_name": "sukidaha",
+                "nepali_name": "\u0938\u0941\u0915\u093f\u0926\u0939"
+              },
+              {
+                "id": "523",
+                "english_name": "sunchhahari",
+                "nepali_name": "\u0938\u0941\u0928\u091b\u0939\u0930\u0940"
+              },
+              {
+                "id": "524",
+                "english_name": "suwarnawati",
+                "nepali_name": "\u0938\u0941\u0935\u0930\u094d\u0923\u093e\u0935\u0924\u0940"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "KP": {
+      "name": "Karnali Pradesh",
+      "districts": [
+        {
+          "id": "59",
+          "name": "\u0915\u093e\u0932\u093f\u0915\u094b\u091f / Kalikot",
+          "nepali_name": "\u0915\u093e\u0932\u093f\u0915\u094b\u091f",
+          "english_name": "kalikot",
+          "code": "kalikot",
+          "locations": [
+            [
+              {
+                "id": "619",
+                "english_name": "kalika",
+                "nepali_name": "\u0915\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "613",
+                "english_name": "khadachakra",
+                "nepali_name": "\u0916\u093e\u0901\u0921\u093e\u091a\u0915\u094d\u0930"
+              },
+              {
+                "id": "615",
+                "english_name": "tilagupha",
+                "nepali_name": "\u0924\u093f\u0932\u093e\u0917\u0941\u092b\u093e"
+              },
+              {
+                "id": "618",
+                "english_name": "naraharinath",
+                "nepali_name": "\u0928\u0930\u0939\u0930\u093f\u0928\u093e\u0925"
+              },
+              {
+                "id": "616",
+                "english_name": "pachal jharana",
+                "nepali_name": "\u092a\u091a\u093e\u0932\u091d\u0930\u0928\u093e"
+              },
+              {
+                "id": "621",
+                "english_name": "palata",
+                "nepali_name": "\u092a\u0932\u093e\u0924\u093e"
+              },
+              {
+                "id": "620",
+                "english_name": "mahabai",
+                "nepali_name": "\u092e\u0939\u093e\u0935\u0948"
+              },
+              {
+                "id": "614",
+                "english_name": "raskot",
+                "nepali_name": "\u0930\u093e\u0938\u094d\u0915\u094b\u091f"
+              },
+              {
+                "id": "617",
+                "english_name": "sanni triveni",
+                "nepali_name": "\u0938\u093e\u0928\u094d\u0928\u0940 \u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "60",
+          "name": "\u091c\u093e\u091c\u0930\u0915\u094b\u091f / Jajarkot",
+          "nepali_name": "\u091c\u093e\u091c\u0930\u0915\u094b\u091f",
+          "english_name": "jajarkot",
+          "code": "jajarkot",
+          "locations": [
+            [
+              {
+                "id": "595",
+                "english_name": "kuse",
+                "nepali_name": "\u0915\u0941\u0938\u0947"
+              },
+              {
+                "id": "592",
+                "english_name": "chhedagaad",
+                "nepali_name": "\u091b\u0947\u0921\u093e\u0917\u093e\u0921"
+              },
+              {
+                "id": "596",
+                "english_name": "junichade",
+                "nepali_name": "\u091c\u0941\u0928\u0940\u091a\u093e\u0901\u0926\u0947"
+              },
+              {
+                "id": "593",
+                "english_name": "triveni nalgaad",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940 \u0928\u0932\u0917\u093e\u0921"
+              },
+              {
+                "id": "594",
+                "english_name": "barekot",
+                "nepali_name": "\u092c\u093e\u0930\u0947\u0915\u094b\u091f"
+              },
+              {
+                "id": "591",
+                "english_name": "bheri",
+                "nepali_name": "\u092d\u0947\u0930\u0940"
+              },
+              {
+                "id": "597",
+                "english_name": "shivalaya",
+                "nepali_name": "\u0936\u093f\u0935\u093e\u0932\u092f"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "61",
+          "name": "\u091c\u0941\u092e\u094d\u0932\u093e / Jumla",
+          "nepali_name": "\u091c\u0941\u092e\u094d\u0932\u093e",
+          "english_name": "jumla",
+          "code": "jumla",
+          "locations": [
+            [
+              {
+                "id": "627",
+                "english_name": "kanaka sundari",
+                "nepali_name": "\u0915\u0928\u0915\u093e\u0938\u0941\u0928\u094d\u0926\u0930\u0940"
+              },
+              {
+                "id": "631",
+                "english_name": "guthichaur",
+                "nepali_name": "\u0917\u0941\u0920\u093f\u091a\u094c\u0930"
+              },
+              {
+                "id": "626",
+                "english_name": "chandannath",
+                "nepali_name": "\u091a\u0928\u094d\u0926\u0928\u0928\u093e\u0925"
+              },
+              {
+                "id": "632",
+                "english_name": "tatopani",
+                "nepali_name": "\u0924\u093e\u0924\u094b\u092a\u093e\u0928\u0940"
+              },
+              {
+                "id": "630",
+                "english_name": "tila",
+                "nepali_name": "\u0924\u093f\u0932\u093e"
+              },
+              {
+                "id": "633",
+                "english_name": "patarashi",
+                "nepali_name": "\u092a\u093e\u0924\u093e\u0930\u093e\u0938\u0940"
+              },
+              {
+                "id": "628",
+                "english_name": "sinja",
+                "nepali_name": "\u0938\u093f\u0902\u091c\u093e"
+              },
+              {
+                "id": "629",
+                "english_name": "hima",
+                "nepali_name": "\u0939\u093f\u092e\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "62",
+          "name": "\u0921\u094b\u0932\u094d\u092a\u093e / Dolpa",
+          "nepali_name": "\u0921\u094b\u0932\u094d\u092a\u093e",
+          "english_name": "dolpa",
+          "code": "dolpa",
+          "locations": [
+            [
+              {
+                "id": "604",
+                "english_name": "kaike",
+                "nepali_name": "\u0915\u093e\u0908\u0915\u0947"
+              },
+              {
+                "id": "605",
+                "english_name": "chharka tangsong",
+                "nepali_name": "\u091b\u093e\u0930\u094d\u0915\u093e \u0924\u093e\u0919\u0938\u094b\u0919"
+              },
+              {
+                "id": "602",
+                "english_name": "jagdulla",
+                "nepali_name": "\u091c\u0917\u0926\u0941\u0932\u094d\u0932\u093e"
+              },
+              {
+                "id": "598",
+                "english_name": "thulibheri",
+                "nepali_name": "\u0920\u0942\u0932\u0940 \u092d\u0947\u0930\u0940"
+              },
+              {
+                "id": "600",
+                "english_name": "dolpo buddha",
+                "nepali_name": "\u0921\u094b\u0932\u094d\u092a\u094b \u092c\u0941\u0926\u094d\u0927"
+              },
+              {
+                "id": "599",
+                "english_name": "tripurasundari",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e\u0938\u0941\u0928\u094d\u0926\u0930\u0940"
+              },
+              {
+                "id": "603",
+                "english_name": "mudkechula",
+                "nepali_name": "\u092e\u0941\u0921\u094d\u0915\u0947\u091a\u0941\u0932\u093e"
+              },
+              {
+                "id": "601",
+                "english_name": "shey phoksundo",
+                "nepali_name": "\u0936\u0947 \u092b\u094b\u0915\u094d\u0938\u0941\u0928\u094d\u0921\u094b"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "63",
+          "name": "\u0926\u0948\u0932\u0947\u0916 / Dailekh",
+          "nepali_name": "\u0926\u0948\u0932\u0947\u0916",
+          "english_name": "dailekh",
+          "code": "dailekh",
+          "locations": [
+            [
+              {
+                "id": "575",
+                "english_name": "aathbis",
+                "nepali_name": "\u0906\u0920\u092c\u0940\u0938"
+              },
+              {
+                "id": "577",
+                "english_name": "gurans",
+                "nepali_name": "\u0917\u0941\u0930\u093e\u0901\u0938"
+              },
+              {
+                "id": "574",
+                "english_name": "chamunda brindrasaini",
+                "nepali_name": "\u091a\u093e\u092e\u0941\u0923\u094d\u0921\u093e \u0935\u093f\u0928\u094d\u0926\u094d\u0930\u093e\u0938\u0948\u0928\u0940"
+              },
+              {
+                "id": "582",
+                "english_name": "thatikadh",
+                "nepali_name": "\u0920\u093e\u0901\u091f\u0940\u0915\u093e\u0901\u0927"
+              },
+              {
+                "id": "578",
+                "english_name": "dungeshwor",
+                "nepali_name": "\u0921\u0941\u0902\u0917\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "573",
+                "english_name": "dullu",
+                "nepali_name": "\u0926\u0941\u0932\u094d\u0932\u0941"
+              },
+              {
+                "id": "572",
+                "english_name": "narayan",
+                "nepali_name": "\u0928\u093e\u0930\u093e\u092f\u0923"
+              },
+              {
+                "id": "579",
+                "english_name": "naumule",
+                "nepali_name": "\u0928\u094c\u092e\u0941\u0932\u0947"
+              },
+              {
+                "id": "576",
+                "english_name": "bhagwati mai",
+                "nepali_name": "\u092d\u0917\u0935\u0924\u0940\u092e\u093e\u0908"
+              },
+              {
+                "id": "581",
+                "english_name": "bhairabi",
+                "nepali_name": "\u092d\u0948\u0930\u0935\u0940"
+              },
+              {
+                "id": "580",
+                "english_name": "mahabu",
+                "nepali_name": "\u092e\u0939\u093e\u0935\u0941"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "64",
+          "name": "\u092e\u0941\u0917\u0942 / Mugu",
+          "nepali_name": "\u092e\u0941\u0917\u0942",
+          "english_name": "mugu",
+          "code": "mugu",
+          "locations": [
+            [
+              {
+                "id": "625",
+                "english_name": "khatyad",
+                "nepali_name": "\u0916\u0924\u094d\u092f\u093e\u0921"
+              },
+              {
+                "id": "622",
+                "english_name": "chhayanath rara",
+                "nepali_name": "\u091b\u093e\u092f\u093e\u0901\u0928\u093e\u0925 \u0930\u093e\u0930\u093e"
+              },
+              {
+                "id": "623",
+                "english_name": "mugum karmarong",
+                "nepali_name": "\u092e\u0941\u0917\u0941\u092e \u0915\u093e\u0930\u094d\u092e\u093e\u0930\u094b\u0902\u0917"
+              },
+              {
+                "id": "624",
+                "english_name": "soru",
+                "nepali_name": "\u0938\u094b\u0930\u0941"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "65",
+          "name": "\u0930\u0941\u0915\u0941\u092e (\u092a\u094d\u0930. \u096c) / Rukum (Prov. 6)",
+          "nepali_name": "\u0930\u0941\u0915\u0941\u092e (\u092a\u094d\u0930. \u096c)",
+          "english_name": "rukum (prov. 6)",
+          "code": "rukum6",
+          "locations": [
+            [
+              {
+                "id": "528",
+                "english_name": "aathbiskot",
+                "nepali_name": "\u0906\u0920\u092c\u093f\u0938\u0915\u094b\u091f"
+              },
+              {
+                "id": "527",
+                "english_name": "chaurjahari",
+                "nepali_name": "\u091a\u094c\u0930\u091c\u0939\u093e\u0930\u0940"
+              },
+              {
+                "id": "533",
+                "english_name": "triveni",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "532",
+                "english_name": "bafikot",
+                "nepali_name": "\u092c\u093e\u0901\u092b\u093f\u0915\u094b\u091f"
+              },
+              {
+                "id": "526",
+                "english_name": "musikot",
+                "nepali_name": "\u092e\u0941\u0938\u093f\u0915\u094b\u091f"
+              },
+              {
+                "id": "534",
+                "english_name": "sanibheri",
+                "nepali_name": "\u0938\u093e\u0928\u0940 \u092d\u0947\u0930\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "66",
+          "name": "\u0938\u0932\u094d\u092f\u093e\u0928 / Salyan",
+          "nepali_name": "\u0938\u0932\u094d\u092f\u093e\u0928",
+          "english_name": "salyan",
+          "code": "salyan",
+          "locations": [
+            [
+              {
+                "id": "540",
+                "english_name": "kapurkot",
+                "nepali_name": "\u0915\u092a\u0941\u0930\u0915\u094b\u091f"
+              },
+              {
+                "id": "538",
+                "english_name": "kalimati",
+                "nepali_name": "\u0915\u093e\u0932\u0940\u092e\u093e\u091f\u0940"
+              },
+              {
+                "id": "543",
+                "english_name": "kumakh malika",
+                "nepali_name": "\u0915\u0941\u092e\u093e\u0916\u092e\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "541",
+                "english_name": "chhatreshwori",
+                "nepali_name": "\u091b\u0924\u094d\u0930\u0947\u0936\u094d\u0935\u0930\u0940"
+              },
+              {
+                "id": "542",
+                "english_name": "dhorchaur",
+                "nepali_name": "\u0922\u094b\u0930\u091a\u094c\u0930"
+              },
+              {
+                "id": "539",
+                "english_name": "triveni",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "544",
+                "english_name": "damra",
+                "nepali_name": "\u0926\u093e\u0930\u094d\u092e\u093e"
+              },
+              {
+                "id": "537",
+                "english_name": "bangad kupinde",
+                "nepali_name": "\u092c\u0928\u0917\u093e\u0921 \u0915\u0941\u092a\u093f\u0923\u094d\u0921\u0947"
+              },
+              {
+                "id": "536",
+                "english_name": "baagchaur",
+                "nepali_name": "\u092c\u093e\u0917\u091a\u094c\u0930"
+              },
+              {
+                "id": "535",
+                "english_name": "sarada",
+                "nepali_name": "\u0936\u093e\u0930\u0926\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "67",
+          "name": "\u0938\u0941\u0930\u094d\u0916\u0947\u0924 / Surkhet",
+          "nepali_name": "\u0938\u0941\u0930\u094d\u0916\u0947\u0924",
+          "english_name": "surkhet",
+          "code": "surkhet",
+          "locations": [
+            [
+              {
+                "id": "565",
+                "english_name": "gurbhakot",
+                "nepali_name": "\u0917\u0941\u0930\u094d\u092d\u093e\u0915\u094b\u091f"
+              },
+              {
+                "id": "570",
+                "english_name": "chingad",
+                "nepali_name": "\u091a\u093f\u0919\u0917\u093e\u0921"
+              },
+              {
+                "id": "568",
+                "english_name": "chaukune",
+                "nepali_name": "\u091a\u094c\u0915\u0941\u0928\u0947"
+              },
+              {
+                "id": "566",
+                "english_name": "panchapuri",
+                "nepali_name": "\u092a\u0902\u091e\u094d\u091a\u092a\u0941\u0930\u0940"
+              },
+              {
+                "id": "569",
+                "english_name": "barahataal",
+                "nepali_name": "\u092c\u0930\u093e\u0939\u0924\u093e\u0932"
+              },
+              {
+                "id": "563",
+                "english_name": "birendranagar",
+                "nepali_name": "\u092c\u0940\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930"
+              },
+              {
+                "id": "564",
+                "english_name": "bheri ganga",
+                "nepali_name": "\u092d\u0947\u0930\u0940\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "567",
+                "english_name": "lekbeshi",
+                "nepali_name": "\u0932\u0947\u0915\u0935\u0947\u0936\u0940"
+              },
+              {
+                "id": "571",
+                "english_name": "simta",
+                "nepali_name": "\u0938\u093f\u092e\u094d\u0924\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "68",
+          "name": "\u0939\u0941\u092e\u094d\u0932\u093e / Humla",
+          "nepali_name": "\u0939\u0941\u092e\u094d\u0932\u093e",
+          "english_name": "humla",
+          "code": "humla",
+          "locations": [
+            [
+              {
+                "id": "611",
+                "english_name": "adanchuli",
+                "nepali_name": "\u0905\u0926\u093e\u0928\u091a\u0941\u0932\u0940"
+              },
+              {
+                "id": "608",
+                "english_name": "kharpunath",
+                "nepali_name": "\u0916\u093e\u0930\u094d\u092a\u0941\u0928\u093e\u0925"
+              },
+              {
+                "id": "610",
+                "english_name": "chankheli",
+                "nepali_name": "\u091a\u0902\u0916\u0947\u0932\u0940"
+              },
+              {
+                "id": "612",
+                "english_name": "taajakot",
+                "nepali_name": "\u0924\u093e\u0901\u091c\u093e\u0915\u094b\u091f"
+              },
+              {
+                "id": "606",
+                "english_name": "namkha",
+                "nepali_name": "\u0928\u093e\u092e\u094d\u0916\u093e"
+              },
+              {
+                "id": "609",
+                "english_name": "sarkegaad",
+                "nepali_name": "\u0938\u0930\u094d\u0915\u0947\u0917\u093e\u0921"
+              },
+              {
+                "id": "607",
+                "english_name": "simkot",
+                "nepali_name": "\u0938\u093f\u092e\u0915\u094b\u091f"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "SP": {
+      "name": "Sudurpashchim Pradesh",
+      "districts": [
+        {
+          "id": "69",
+          "name": "\u0905\u091b\u093e\u092e / Achham",
+          "nepali_name": "\u0905\u091b\u093e\u092e",
+          "english_name": "achham",
+          "code": "achham",
+          "locations": [
+            [
+              {
+                "id": "657",
+                "english_name": "kamalbazaar",
+                "nepali_name": "\u0915\u092e\u0932\u092c\u091c\u093e\u0930"
+              },
+              {
+                "id": "659",
+                "english_name": "chaurpati",
+                "nepali_name": "\u091a\u094c\u0930\u092a\u093e\u091f\u0940"
+              },
+              {
+                "id": "662",
+                "english_name": "dakari",
+                "nepali_name": "\u0922\u0915\u093e\u0930\u0940"
+              },
+              {
+                "id": "663",
+                "english_name": "turmakhad",
+                "nepali_name": "\u0924\u0941\u0930\u094d\u092e\u093e\u0916\u093e\u0901\u0926"
+              },
+              {
+                "id": "655",
+                "english_name": "panchdewal binayak",
+                "nepali_name": "\u092a\u091e\u094d\u091a\u0926\u0947\u0935\u0932 \u0935\u093f\u0928\u093e\u092f\u0915"
+              },
+              {
+                "id": "658",
+                "english_name": "bannigadhi jayagadh",
+                "nepali_name": "\u092c\u093e\u0928\u094d\u0928\u0940\u0917\u0922\u0940 \u091c\u092f\u0917\u0922"
+              },
+              {
+                "id": "656",
+                "english_name": "mangalsen",
+                "nepali_name": "\u092e\u0902\u0917\u0932\u0938\u0947\u0928"
+              },
+              {
+                "id": "660",
+                "english_name": "mellekh",
+                "nepali_name": "\u092e\u0947\u0932\u094d\u0932\u0947\u0916"
+              },
+              {
+                "id": "661",
+                "english_name": "ramaroshan",
+                "nepali_name": "\u0930\u093e\u092e\u093e\u0930\u094b\u0936\u0928"
+              },
+              {
+                "id": "654",
+                "english_name": "sanfebagar",
+                "nepali_name": "\u0938\u093e\u092b\u0947\u092c\u0917\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "70",
+          "name": "\u0915\u0902\u091a\u0928\u092a\u0941\u0930 / Kanchanpur",
+          "nepali_name": "\u0915\u0902\u091a\u0928\u092a\u0941\u0930",
+          "english_name": "kanchanpur",
+          "code": "kanchanpur",
+          "locations": [
+            [
+              {
+                "id": "692",
+                "english_name": "krishnapur",
+                "nepali_name": "\u0915\u0943\u0937\u094d\u0923\u092a\u0941\u0930"
+              },
+              {
+                "id": "686",
+                "english_name": "punarbaas",
+                "nepali_name": "\u092a\u0941\u0928\u0930\u094d\u0935\u093e\u0938"
+              },
+              {
+                "id": "693",
+                "english_name": "beldadi",
+                "nepali_name": "\u092c\u0947\u0932\u0921\u093e\u0921\u0940"
+              },
+              {
+                "id": "691",
+                "english_name": "belauri",
+                "nepali_name": "\u092c\u0947\u0932\u094c\u0930\u0940"
+              },
+              {
+                "id": "687",
+                "english_name": "bhimdutta",
+                "nepali_name": "\u092d\u0940\u092e\u0926\u0924\u094d\u0924"
+              },
+              {
+                "id": "689",
+                "english_name": "mahakali",
+                "nepali_name": "\u092e\u093e\u0939\u093e\u0915\u093e\u0932\u0940"
+              },
+              {
+                "id": "694",
+                "english_name": "laljhadi",
+                "nepali_name": "\u0932\u093e\u0932\u091d\u093e\u0901\u0921\u0940"
+              },
+              {
+                "id": "688",
+                "english_name": "bedkot",
+                "nepali_name": "\u0935\u0947\u0926\u0915\u094b\u091f"
+              },
+              {
+                "id": "690",
+                "english_name": "suklaphanta",
+                "nepali_name": "\u0938\u0941\u0915\u094d\u0932\u093e\u092b\u093e\u0901\u091f\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "71",
+          "name": "\u0915\u0948\u0932\u093e\u0932\u0940 / Kailali",
+          "nepali_name": "\u0915\u0948\u0932\u093e\u0932\u0940",
+          "english_name": "kailali",
+          "code": "kailali",
+          "locations": [
+            [
+              {
+                "id": "683",
+                "english_name": "kailari",
+                "nepali_name": "\u0915\u0948\u0932\u093e\u0930\u0940"
+              },
+              {
+                "id": "679",
+                "english_name": "godawari",
+                "nepali_name": "\u0917\u094b\u0926\u093e\u0935\u0930\u0940"
+              },
+              {
+                "id": "676",
+                "english_name": "gauriganga",
+                "nepali_name": "\u0917\u094c\u0930\u0940\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "677",
+                "english_name": "ghodaghodi",
+                "nepali_name": "\u0918\u094b\u0921\u093e\u0918\u094b\u0921\u0940"
+              },
+              {
+                "id": "685",
+                "english_name": "chure",
+                "nepali_name": "\u091a\u0941\u0930\u0947"
+              },
+              {
+                "id": "680",
+                "english_name": "janaki",
+                "nepali_name": "\u091c\u093e\u0928\u0915\u0940"
+              },
+              {
+                "id": "684",
+                "english_name": "joshipur",
+                "nepali_name": "\u091c\u094b\u0936\u0940\u092a\u0941\u0930"
+              },
+              {
+                "id": "674",
+                "english_name": "tikapur",
+                "nepali_name": "\u091f\u093f\u0915\u093e\u092a\u0941\u0930"
+              },
+              {
+                "id": "673",
+                "english_name": "dhangadhi",
+                "nepali_name": "\u0927\u0928\u0917\u0922\u0940"
+              },
+              {
+                "id": "681",
+                "english_name": "bardagoriya",
+                "nepali_name": "\u092c\u0930\u094d\u0926\u0917\u094b\u0930\u0940\u092f\u093e"
+              },
+              {
+                "id": "678",
+                "english_name": "bhajani",
+                "nepali_name": "\u092d\u091c\u0928\u0940"
+              },
+              {
+                "id": "682",
+                "english_name": "mohanyal",
+                "nepali_name": "\u092e\u094b\u0939\u0928\u094d\u092f\u093e\u0932"
+              },
+              {
+                "id": "675",
+                "english_name": "lamki chuha",
+                "nepali_name": "\u0932\u092e\u094d\u0915\u0940 \u091a\u0941\u0939\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "72",
+          "name": "\u0921\u0921\u0947\u0932\u0927\u0941\u0930\u093e / Dadeldhura",
+          "nepali_name": "\u0921\u0921\u0947\u0932\u0927\u0941\u0930\u093e",
+          "english_name": "dadeldhura",
+          "code": "dadeldhura",
+          "locations": [
+            [
+              {
+                "id": "700",
+                "english_name": "ajaymeru",
+                "nepali_name": "\u0905\u091c\u092f\u092e\u0947\u0930\u0941"
+              },
+              {
+                "id": "695",
+                "english_name": "amargadi",
+                "nepali_name": "\u0905\u092e\u0930\u0917\u0922\u0940"
+              },
+              {
+                "id": "697",
+                "english_name": "aalital",
+                "nepali_name": "\u0906\u0932\u093f\u0924\u093e\u0932"
+              },
+              {
+                "id": "701",
+                "english_name": "ganyapdhura",
+                "nepali_name": "\u0917\u0928\u094d\u092f\u093e\u092a\u0927\u0941\u0930\u093e"
+              },
+              {
+                "id": "699",
+                "english_name": "nabadurga",
+                "nepali_name": "\u0928\u0935\u0926\u0941\u0930\u094d\u0917\u093e"
+              },
+              {
+                "id": "696",
+                "english_name": "parshuram",
+                "nepali_name": "\u092a\u0930\u0936\u0941\u0930\u093e\u092e"
+              },
+              {
+                "id": "698",
+                "english_name": "bhageshwor",
+                "nepali_name": "\u092d\u093e\u0917\u0947\u0936\u094d\u0935\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "73",
+          "name": "\u0921\u094b\u091f\u0940 / Doti",
+          "nepali_name": "\u0921\u094b\u091f\u0940",
+          "english_name": "doti",
+          "code": "doti",
+          "locations": [
+            [
+              {
+                "id": "670",
+                "english_name": "aadarsha",
+                "nepali_name": "\u0906\u0926\u0930\u094d\u0936"
+              },
+              {
+                "id": "671",
+                "english_name": "kic",
+                "nepali_name": "\u0915\u0947.\u0906\u0908.\u0938\u093f\u0902."
+              },
+              {
+                "id": "668",
+                "english_name": "jorayal",
+                "nepali_name": "\u091c\u094b\u0930\u093e\u092f\u0932"
+              },
+              {
+                "id": "664",
+                "english_name": "dipayal silgadi",
+                "nepali_name": "\u0926\u093f\u092a\u093e\u092f\u0932 \u0938\u093f\u0932\u0917\u0922\u0940"
+              },
+              {
+                "id": "666",
+                "english_name": "purbichauki",
+                "nepali_name": "\u092a\u0942\u0930\u094d\u0935\u0940\u091a\u094c\u0915\u0940"
+              },
+              {
+                "id": "667",
+                "english_name": "badikedar",
+                "nepali_name": "\u092c\u0921\u0940\u0915\u0947\u0926\u093e\u0930"
+              },
+              {
+                "id": "672",
+                "english_name": "bogtan",
+                "nepali_name": "\u092c\u094b\u0917\u091f\u093e\u0928"
+              },
+              {
+                "id": "665",
+                "english_name": "shikhar",
+                "nepali_name": "\u0936\u093f\u0916\u0930"
+              },
+              {
+                "id": "669",
+                "english_name": "sayal",
+                "nepali_name": "\u0938\u093e\u092f\u0932"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "74",
+          "name": "\u0926\u093e\u0930\u094d\u091a\u0941\u0932\u093e / Darchula",
+          "nepali_name": "\u0926\u093e\u0930\u094d\u091a\u0941\u0932\u093e",
+          "english_name": "darchula",
+          "code": "darchula",
+          "locations": [
+            [
+              {
+                "id": "715",
+                "english_name": "apihimal",
+                "nepali_name": "\u0905\u092a\u093f\u0939\u093f\u092e\u093e\u0932"
+              },
+              {
+                "id": "716",
+                "english_name": "dunhu",
+                "nepali_name": "\u0926\u0941\u0939\u0941\u0901"
+              },
+              {
+                "id": "717",
+                "english_name": "naugad",
+                "nepali_name": "\u0928\u094c\u0917\u093e\u0921"
+              },
+              {
+                "id": "720",
+                "english_name": "byas",
+                "nepali_name": "\u092c\u094d\u092f\u093e\u0938"
+              },
+              {
+                "id": "714",
+                "english_name": "mahakali",
+                "nepali_name": "\u092e\u0939\u093e\u0915\u093e\u0932\u0940"
+              },
+              {
+                "id": "718",
+                "english_name": "marma",
+                "nepali_name": "\u092e\u093e\u0930\u094d\u092e\u093e"
+              },
+              {
+                "id": "712",
+                "english_name": "maalikarjun",
+                "nepali_name": "\u092e\u093e\u0932\u093f\u0915\u093e\u0930\u094d\u091c\u0941\u0928"
+              },
+              {
+                "id": "719",
+                "english_name": "lekam",
+                "nepali_name": "\u0932\u0947\u0915\u092e"
+              },
+              {
+                "id": "713",
+                "english_name": "shailyasikhar",
+                "nepali_name": "\u0936\u0948\u0932\u094d\u092f\u0936\u093f\u0916\u0930"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "75",
+          "name": "\u092c\u091d\u093e\u0919 / Bajhang",
+          "nepali_name": "\u092c\u091d\u093e\u0919",
+          "english_name": "bajhang",
+          "code": "bajhang",
+          "locations": [
+            [
+              {
+                "id": "729",
+                "english_name": "kanda",
+                "nepali_name": "\u0915\u093e\u0901\u0921\u093e"
+              },
+              {
+                "id": "653",
+                "english_name": "kedarshyu",
+                "nepali_name": "\u0915\u0947\u0926\u093e\u0930\u0938\u094d\u092f\u0941\u0901"
+              },
+              {
+                "id": "646",
+                "english_name": "khaptadchatra",
+                "nepali_name": "\u0916\u092a\u094d\u0924\u0921\u091b\u093e\u0928\u094d\u0928\u093e"
+              },
+              {
+                "id": "650",
+                "english_name": "chabbis pathibhara",
+                "nepali_name": "\u091b\u092c\u093f\u0938\u092a\u093e\u0925\u093f\u092d\u0947\u0930\u093e"
+              },
+              {
+                "id": "643",
+                "english_name": "jayprithivi",
+                "nepali_name": "\u091c\u092f\u092a\u0943\u0925\u094d\u0935\u0940"
+              },
+              {
+                "id": "645",
+                "english_name": "talkot",
+                "nepali_name": "\u0924\u0932\u0915\u094b\u091f"
+              },
+              {
+                "id": "647",
+                "english_name": "thalara",
+                "nepali_name": "\u0925\u0932\u093e\u0930\u093e"
+              },
+              {
+                "id": "651",
+                "english_name": "durgathali",
+                "nepali_name": "\u0926\u0941\u0930\u094d\u0917\u093e\u0925\u0932\u0940"
+              },
+              {
+                "id": "644",
+                "english_name": "bungal",
+                "nepali_name": "\u092c\u0941\u0902\u0917\u0932"
+              },
+              {
+                "id": "652",
+                "english_name": "masta",
+                "nepali_name": "\u092e\u0937\u094d\u091f\u093e"
+              },
+              {
+                "id": "648",
+                "english_name": "withdachir",
+                "nepali_name": "\u0935\u093f\u0924\u094d\u0925\u0921\u091a\u093f\u0930"
+              },
+              {
+                "id": "649",
+                "english_name": "surma",
+                "nepali_name": "\u0938\u0942\u0930\u094d\u092e\u093e"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "76",
+          "name": "\u092c\u093e\u091c\u0941\u0930\u093e / Bajura",
+          "nepali_name": "\u092c\u093e\u091c\u0941\u0930\u093e",
+          "english_name": "bajura",
+          "code": "bajura",
+          "locations": [
+            [
+              {
+                "id": "638",
+                "english_name": "gaumul",
+                "nepali_name": "\u0917\u094c\u092e\u0941\u0932"
+              },
+              {
+                "id": "642",
+                "english_name": "chededaha",
+                "nepali_name": "\u091b\u0947\u0921\u0947\u0926\u0939"
+              },
+              {
+                "id": "634",
+                "english_name": "tribeni",
+                "nepali_name": "\u0924\u094d\u0930\u093f\u0935\u0947\u0923\u0940"
+              },
+              {
+                "id": "639",
+                "english_name": "pandavgupha",
+                "nepali_name": "\u092a\u093e\u0923\u094d\u0921\u0935\u0917\u0941\u092b\u093e"
+              },
+              {
+                "id": "635",
+                "english_name": "badimalika",
+                "nepali_name": "\u092c\u0921\u0940\u092e\u093e\u0932\u093f\u0915\u093e"
+              },
+              {
+                "id": "636",
+                "english_name": "budhiganga",
+                "nepali_name": "\u092c\u0941\u0922\u0940\u0917\u0902\u0917\u093e"
+              },
+              {
+                "id": "637",
+                "english_name": "budhinanda",
+                "nepali_name": "\u092c\u0941\u0922\u0940\u0928\u0928\u094d\u0926\u093e"
+              },
+              {
+                "id": "640",
+                "english_name": "swamikartik",
+                "nepali_name": "\u0938\u094d\u0935\u093e\u092e\u0940\u0915\u093e\u0930\u094d\u0924\u093f\u0915"
+              },
+              {
+                "id": "641",
+                "english_name": "himali",
+                "nepali_name": "\u0939\u093f\u092e\u093e\u0932\u0940"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "77",
+          "name": "\u092c\u0948\u0924\u0921\u0940 / Baitadi",
+          "nepali_name": "\u092c\u0948\u0924\u0921\u0940",
+          "english_name": "baitadi",
+          "code": "baitadi",
+          "locations": [
+            [
+              {
+                "id": "711",
+                "english_name": "dellasaine",
+                "nepali_name": "\u0921\u0940\u0932\u093e\u0938\u0948\u0928\u0940"
+              },
+              {
+                "id": "705",
+                "english_name": "dasarathchand",
+                "nepali_name": "\u0926\u0936\u0930\u0925\u091a\u0928\u094d\u0926"
+              },
+              {
+                "id": "709",
+                "english_name": "dogadakedar",
+                "nepali_name": "\u0926\u094b\u0917\u0921\u093e\u0915\u0947\u0926\u093e\u0930"
+              },
+              {
+                "id": "710",
+                "english_name": "pancheswar",
+                "nepali_name": "\u092a\u0928\u094d\u091a\u0947\u0936\u094d\u0935\u0930"
+              },
+              {
+                "id": "704",
+                "english_name": "patan",
+                "nepali_name": "\u092a\u093e\u091f\u0928"
+              },
+              {
+                "id": "703",
+                "english_name": "purchadi",
+                "nepali_name": "\u092a\u0941\u0930\u094d\u091a\u094c\u0921\u0940"
+              },
+              {
+                "id": "702",
+                "english_name": "melauli",
+                "nepali_name": "\u092e\u0947\u0932\u094c\u0932\u0940"
+              },
+              {
+                "id": "708",
+                "english_name": "shivanath",
+                "nepali_name": "\u0936\u093f\u0935\u0928\u093e\u0925"
+              },
+              {
+                "id": "707",
+                "english_name": "sigash",
+                "nepali_name": "\u0938\u093f\u0917\u093e\u0938"
+              },
+              {
+                "id": "706",
+                "english_name": "sunarya",
+                "nepali_name": "\u0938\u0941\u0930\u094d\u0928\u092f\u093e"
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  }
